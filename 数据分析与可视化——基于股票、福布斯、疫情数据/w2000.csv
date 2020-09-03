@@ -1,0 +1,2001 @@
+position,name,age,country,gender,wealthSource,industry,worth
+1,Jeff Bezos,54,United States,M,Amazon,Technology,112000
+2,Bill Gates,62,United States,M,Microsoft,Technology,90000
+3,Warren Buffett,87,United States,M,Berkshire Hathaway,Finance and Investments,84000
+4,Bernard Arnault,69,France,M,LVMH,Fashion & Retail,72000
+5,Mark Zuckerberg,34,United States,M,Facebook,Technology,71000
+6,Amancio Ortega,82,Spain,M,Zara,Fashion & Retail,70000
+7,Carlos Slim Helu,78,Mexico,M,telecom,Telecom,67100
+8,Charles Koch,82,United States,M,Koch Industries,Diversified,60000
+9,David Koch,78,United States,M,Koch Industries,Diversified,60000
+10,Larry Ellison,73,United States,M,software,Technology,58500
+11,Michael Bloomberg,76,United States,M,Bloomberg LP,Media & Entertainment,50000
+12,Larry Page,45,United States,M,Google,Technology,48800
+13,Sergey Brin,44,United States,M,Google,Technology,47500
+14,Jim Walton,70,United States,M,Walmart,Fashion & Retail,46400
+15,S. Robson Walton,73,United States,M,Walmart,Fashion & Retail,46200
+16,Alice Walton,68,United States,F,Walmart,Fashion & Retail,46000
+17,Ma Huateng,46,China,M,internet media,Technology,45300
+18,Francoise Bettencourt Meyers,64,France,F,L'Oreal,Fashion & Retail,42200
+19,Mukesh Ambani,61,India,M,"petrochemicals, oil & gas",Energy,40100
+20,Jack Ma,53,China,M,e-commerce,Technology,39000
+21,Sheldon Adelson,84,United States,M,casinos,Gambling & Casinos,38500
+22,Steve Ballmer,62,United States,M,Microsoft,Technology,38400
+23,Li Ka-shing,90,Hong Kong,M,diversified,Diversified,34900
+24,Hui Ka Yan,59,China,M,real estate,Real Estate,30300
+25,Lee Shau Kee,90,Hong Kong,M,real estate,Real Estate,30300
+26,Wang Jianlin,63,China,M,real estate,Real Estate,30000
+28,Phil Knight,80,United States,M,Nike,Fashion & Retail,29600
+29,Jorge Paulo Lemann,78,Brazil,M,beer,Food and Beverage,27400
+30,Francois Pinault,81,France,M,luxury goods,Fashion & Retail,27000
+31,Georg Schaeffler,53,Germany,M,auto parts,Automotive,25300
+32,Susanne Klatten,56,Germany,F,"BMW, pharmaceuticals",Automotive,25000
+33,David Thomson,61,Canada,M,media,Media & Entertainment,25000
+34,Jacqueline Mars,78,United States,F,"candy, pet food",Food and Beverage,23600
+35,John Mars,82,United States,M,"candy, pet food",Food and Beverage,23600
+36,Joseph Safra,79,Brazil,M,banking,Finance and Investments,23500
+37,Giovanni Ferrero,53,Italy,M,"Nutella, chocolates",Food and Beverage,23000
+38,Dietrich Mateschitz,74,Austria,M,Red Bull,Food and Beverage,23000
+39,Michael Dell,53,United States,M,Dell computers,Technology,22700
+40,Masayoshi Son,60,Japan,M,"internet, telecom",Telecom,22700
+41,Serge Dassault,93,France,M,diversified,Diversified,22600
+42,Stefan Quandt,52,Germany,M,BMW,Automotive,22000
+43,Yang Huiyan,36,China,F,real estate,Real Estate,21900
+44,Paul Allen,65,United States,M,"Microsoft, investments",Technology,21700
+45,Leonardo Del Vecchio,83,Italy,M,eyeglasses,Fashion & Retail,21200
+46,Dieter Schwarz,78,Germany,M,retail,Fashion & Retail,20900
+47,Thomas Peterffy,73,United States,M,discount brokerage,Finance and Investments,20300
+48,"Theo Albrecht, Jr.",67,Germany,M,"Aldi, Trader Joe's",Fashion & Retail,20200
+49,Len Blavatnik,61,United States,M,diversified,Diversified,20200
+50,He Xiangjian,75,China,M,home appliances,Manufacturing,20100
+51,Lui Che Woo,89,Hong Kong,M,casinos,Gambling & Casinos,20100
+52,James Simons,80,United States,M,hedge funds,Finance and Investments,20000
+53,Henry Sy,93,Philippines,M,diversified,Diversified,20000
+54,Elon Musk,46,United States,M,Tesla Motors,Automotive,19900
+56,Tadashi Yanai,69,Japan,M,fashion retail,Fashion & Retail,19500
+57,Vladimir Lisin,62,Russia,M,"steel, transport",Metals & Mining,19100
+58,Laurene Powell Jobs,54,United States,F,"Apple, Disney",Philanthropy/NGO,18800
+59,Azim Premji,72,India,M,software services,Technology,18800
+60,Alexey Mordashov,52,Russia,M,"steel, investments",Metals & Mining,18700
+61,Lee Kun-Hee,76,South Korea,M,Samsung,Diversified,18600
+62,Lakshmi Mittal,68,India,M,steel,Metals & Mining,18500
+63,Wang Wei,48,China,M,package delivery,Service,18200
+64,Leonid Mikhelson,62,Russia,M,"gas, chemicals",Energy,18000
+65,Charoen Sirivadhanabhakdi,74,Thailand,M,"drinks, real estate",Food and Beverage,17900
+66,Pallonji Mistry,89,Ireland,M,construction,Construction & Engineering,17800
+67,Ray Dalio,68,United States,M,hedge funds,Finance and Investments,17700
+68,Takemitsu Takizaki,73,Japan,M,sensors,Manufacturing,17500
+69,William Ding,46,China,M,online games,Technology,17400
+70,R. Budi Hartono,77,Indonesia,M,"banking, tobacco",Finance and Investments,17400
+71,Gina Rinehart,64,Australia,F,mining,Metals & Mining,17400
+72,German Larrea Mota Velasco,64,Mexico,M,mining,Metals & Mining,17300
+73,Carl Icahn,82,United States,M,investments,Finance and Investments,16800
+74,Stefan Persson,70,Sweden,M,H&M,Fashion & Retail,16800
+75,Michael Hartono,78,Indonesia,M,"banking, tobacco",Manufacturing,16700
+76,Joseph Lau,66,Hong Kong,M,real estate,Real Estate,16700
+78,Vagit Alekperov,67,Russia,M,oil,Energy,16400
+79,James Ratcliffe,65,United Kingdom,M,chemicals,Manufacturing,16400
+80,Donald Bren,86,United States,M,real estate,Real Estate,16300
+81,Iris Fontbona,75,Chile,F,mining,Metals & Mining,16300
+82,Gennady Timchenko,65,Russia,M,"oil, gas",Energy,16000
+83,Abigail Johnson,56,United States,F,money management,Finance and Investments,15900
+84,Vladimir Potanin,57,Russia,M,metals,Metals & Mining,15900
+85,Lukas Walton,31,United States,M,Walmart,Fashion & Retail,15900
+86,Charlene de Carvalho-Heineken,63,Netherlands,F,Heineken,Food and Beverage,15800
+87,Zhang Zhidong,46,China,M,internet media,Technology,15600
+88,Petr Kellner,54,Czech Republic,M,banking,Finance and Investments,15500
+89,Andrey Melnichenko,46,Russia,M,"coal, fertilizers",Energy,15500
+91,Klaus-Michael Kuehne,81,Germany,M,shipping,Logistics,15300
+92,Li Shufu,55,China,M,automobiles,Automotive,15300
+93,Mikhail Fridman,54,Russia,M,"oil, banking, telecom",Energy,15100
+94,Rupert Murdoch,87,United States,M,"newspapers, TV network",Media & Entertainment,15000
+95,Dhanin Chearavanont,79,Thailand,M,diversified,Diversified,14900
+96,Robert Kuok,94,Malaysia,M,"palm oil, shipping, property",Diversified,14800
+97,Emmanuel Besnier,47,France,M,cheese,Food and Beverage,14700
+98,Shiv Nadar,72,India,M,software services,Technology,14600
+99,Viktor Vekselberg,61,Russia,M,"metals, energy",Energy,14400
+100,Aliko Dangote,61,Nigeria,M,"cement, sugar, flour",Manufacturing,14100
+101,Harold Hamm,72,United States,M,oil & gas,Energy,14100
+102,Steve Cohen,62,United States,M,hedge funds,Finance and Investments,14000
+103,Dustin Moskovitz,34,United States,M,Facebook,Technology,14000
+104,Marcel Herrmann Telles,68,Brazil,M,beer,Food and Beverage,14000
+105,Reinhold Wuerth,83,Germany,M,fasteners,Manufacturing,13600
+106,Charles Ergen,65,United States,M,satellite TV,Media & Entertainment,13400
+107,Eric Schmidt,63,United States,M,Google,Technology,13400
+108,Philip Anschutz,78,United States,M,investments,Finance and Investments,13000
+109,Jim Kennedy,70,United States,M,media,Media & Entertainment,13000
+110,Blair Parry-Okeden,68,United States,F,media,Media & Entertainment,13000
+111,Alain Wertheimer,69,France,M,Chanel,Fashion & Retail,13000
+112,Gerard Wertheimer,67,France,M,Chanel,Fashion & Retail,13000
+113,Leonard Lauder,81,United States,M,Estee Lauder,Fashion & Retail,12900
+114,Heinz Hermann Thiele,77,Germany,M,brakes,Construction & Engineering,12900
+115,Dilip Shanghvi,62,India,M,pharmaceuticals,Healthcare,12800
+116,Hasso Plattner,74,Germany,M,software,Technology,12700
+117,Stephen Schwarzman,71,United States,M,investments,Finance and Investments,12600
+118,Lei Jun,48,China,M,smartphones,Technology,12500
+119,Hans Rausing,92,Sweden,M,packaging,Manufacturing,12500
+120,Alisher Usmanov,64,Russia,M,"steel, telecom, investments",Metals & Mining,12500
+121,Donald Newhouse,88,United States,M,media,Media & Entertainment,12300
+122,Peter Woo,71,Hong Kong,M,real estate,Real Estate,12200
+123,Luis Carlos Sarmiento,85,Colombia,M,banking,Finance and Investments,12100
+124,Robin Li,49,China,M,internet search,Technology,12000
+125,Carlos Alberto Sicupira,70,Brazil,M,beer,Food and Beverage,12000
+126,Seo Jung-Jin,60,South Korea,M,biotech,Healthcare,11900
+127,Kumar Birla,51,India,M,commodities,Diversified,11800
+128,Alexander Otto,50,Germany,M,real estate,Real Estate,11800
+129,Stefano Pessina,77,Italy,M,drugstores,Fashion & Retail,11800
+131,Wang Wenyin,50,China,M,"mining, copper products",Metals & Mining,11700
+132,Andrew Beal,65,United States,M,"banks, real estate",Finance and Investments,11600
+133,Lee Man Tat,88,Hong Kong,M,"Oyster sauce, real estate",Food and Beverage,11600
+134,"John Menard, Jr.",78,United States,M,home improvement stores,Fashion & Retail,11500
+135,Xu Shihui,60,China,M,"snacks, beverages",Food and Beverage,11300
+136,Zhou Hongyi,47,China,M,security software,Technology,11300
+137,Gong Hongjia,53,Hong Kong,M,video surveillance,Finance and Investments,11200
+138,Michael Otto,75,Germany,M,"retail, real estate",Fashion & Retail,11000
+139,David Tepper,60,United States,M,hedge funds,Finance and Investments,11000
+140,Roman Abramovich,51,Russia,M,"steel, investments",Diversified,10800
+141,Liu Qiangdong,43,China,M,e-commerce,Technology,10800
+143,Alberto Bailleres Gonzalez,86,Mexico,M,mining,Metals & Mining,10700
+144,Uday Kotak,59,India,M,banking,Finance and Investments,10700
+145,Pierre Omidyar,51,United States,M,eBay,Technology,10500
+146,Walter P.J. Droege,65,Germany,M,consulting,Service,10300
+147,Dietmar Hopp,78,Germany,M,software,Technology,10200
+148,Graeme Hart,63,New Zealand,M,investments,Finance and Investments,10100
+149,Eduardo Saverin,36,Brazil,M,Facebook,Technology,10100
+150,Yan Zhi,45,China,M,real estate,Real Estate,10100
+151,Radhakishan Damani,63,India,M,"investments, retail",Finance and Investments,10000
+152,German Khan,56,Russia,M,"oil, banking, telecom",Energy,9800
+153,Ronald Perelman,75,United States,M,leveraged buyouts,Finance and Investments,9800
+154,Gautam Adani,56,India,M,"commodities, ports",Diversified,9700
+155,Micky Arison,68,United States,M,Carnival Cruises,Service,9700
+156,Pan Zhengmin,48,China,M,electronics,Technology,9700
+157,Joseph Tsai,54,Canada,M,e-commerce,Technology,9700
+158,"Thomas Frist, Jr.",79,United States,M,health care,Healthcare,9600
+159,Mikhail Prokhorov,53,Russia,M,investments,Finance and Investments,9600
+160,Galen Weston,77,Canada,M,retail,Fashion & Retail,9500
+161,Zong Qinghou,72,China,M,beverages,Food and Beverage,9500
+162,Eyal Ofer,68,Israel,M,"real estate, shipping",Diversified,9400
+163,Charles Schwab,80,United States,M,discount brokerage,Finance and Investments,9400
+165,"Herbert Kohler, Jr.",79,United States,M,plumbing fixtures,Manufacturing,9300
+166,Viktor Rashnikov,69,Russia,M,steel,Manufacturing,9300
+167,Harry Triguboff,85,Australia,M,real estate,Real Estate,9200
+168,August von Finck,88,Germany,M,investments,Finance and Investments,9200
+169,Yao Zhenhua,48,China,M,conglomerate,Diversified,9200
+170,Jan Koum,42,United States,M,WhatsApp,Technology,9100
+171,Cyrus Poonawalla,77,India,M,vaccines,Healthcare,9100
+172,James Goodnight,75,United States,M,software,Technology,9000
+173,Ken Griffin,49,United States,M,hedge funds,Finance and Investments,9000
+174,Giorgio Armani,83,Italy,M,luxury goods,Fashion & Retail,8900
+175,Ernesto Bertarelli,52,Switzerland,M,"biotech, investments",Healthcare,8900
+176,Savitri Jindal,68,India,F,steel,Metals & Mining,8800
+177,Sunil Mittal,60,India,M,telecom,Telecom,8800
+178,James Chambers,61,United States,M,media,Media & Entertainment,8700
+179,Katharine Rayner,73,United States,F,media,Media & Entertainment,8700
+180,Margaretta Taylor,76,United States,F,media,Media & Entertainment,8700
+181,Terry Gou,67,Taiwan,M,electronics,Technology,8500
+182,Gordon Moore,89,United States,M,Intel,Technology,8500
+183,James Irving,90,Canada,M,diversified,Diversified,8300
+184,Stanley Kroenke,70,United States,M,"sports, real estate",Sports,8300
+185,Melker Schorling,71,Sweden,M,investments,Finance and Investments,8200
+186,Johann Graf,71,Austria,M,gambling,Gambling & Casinos,8100
+187,Guo Guangchang,51,China,M,conglomerate,Diversified,8100
+188,John Malone,77,United States,M,cable television,Media & Entertainment,8100
+189,Xavier Niel,50,France,M,"internet, telecom",Telecom,8100
+190,Silvio Berlusconi,81,Italy,M,media,Diversified,8000
+191,Carl Cook,55,United States,M,medical devices,Healthcare,8000
+192,David Geffen,75,United States,M,"movies, record labels",Media & Entertainment,8000
+193,Hui Wing Mau,67,Hong Kong,M,real estate,Real Estate,8000
+194,Walter Kwok,67,Hong Kong,M,real estate,Real Estate,8000
+195,George Soros,87,United States,M,hedge funds,Finance and Investments,8000
+196,"Edward Johnson, III.",87,United States,M,money management,Finance and Investments,7900
+197,Massimiliana Landini Aleotti,75,Italy,F,pharmaceuticals,Healthcare,7900
+198,David Duffield,77,United States,M,business software,Technology,7800
+199,George Kaiser,75,United States,M,"oil & gas, banking",Energy,7800
+200,Patrick Soon-Shiong,65,United States,M,pharmaceuticals,Healthcare,7800
+201,Zhou Qunfei,48,Hong Kong,F,smartphone screens,Technology,7800
+202,Nicky Oppenheimer,73,South Africa,M,diamonds,Metals & Mining,7700
+203,Sun Piaoyang,59,China,M,pharmaceuticals,Healthcare,7700
+204,Wu Yajun,54,China,F,real estate,Real Estate,7700
+205,Alexei Kuzmichev,55,Russia,M,"oil, banking, telecom",Energy,7600
+206,Stephen Ross,78,United States,M,real estate,Real Estate,7600
+207,Vincent Bollore,66,France,M,investments,Finance and Investments,7400
+208,Pauline MacMillan Keinath,84,United States,F,Cargill,Food and Beverage,7400
+209,Jay Y. Lee,50,South Korea,M,Samsung,Diversified,7400
+210,Anders Holch Povlsen,45,Denmark,M,fashion retail,Fashion & Retail,7400
+211,Eli Broad,85,United States,M,investments,Finance and Investments,7300
+212,Michael Kadoorie,76,Hong Kong,M,"hotels, energy",Energy,7300
+213,Iskander Makhmudov,54,Russia,M,"mining, metals, machinery",Metals & Mining,7300
+214,Frederik Paulsen,67,Sweden,M,health care,Healthcare,7300
+215,Sun Hongbin,55,United States,M,real estate,Real Estate,7300
+216,Christy Walton,69,United States,F,Walmart,Fashion & Retail,7300
+217,Shahid Khan,67,United States,M,auto parts,Automotive,7200
+218,Ananda Krishnan,80,Malaysia,M,"telecoms, media, oil-services",Telecom,7200
+219,Carrie Perrodo,67,France,F,oil,Energy,7200
+220,Quek Leng Chan,76,Malaysia,M,"banking, property",Diversified,7200
+221,Wang Wenxue,51,China,M,real estate,Real Estate,7200
+222,John Doerr,66,United States,M,venture capital,Technology,7100
+223,Patrick Drahi,54,France,M,telecom,Telecom,7100
+226,Ricardo Salinas Pliego,62,Mexico,M,"retail, media",Fashion & Retail,7100
+227,Suh Kyung-Bae,55,South Korea,M,cosmetics,Fashion & Retail,7100
+228,Pollyanna Chu,60,Hong Kong,F,financial services,Finance and Investments,7000
+229,John Fredriksen,73,Cyprus,M,shipping,Logistics,7000
+230,Goh Cheng Liang,91,Singapore,M,paints,Manufacturing,7000
+231,Sri Prakash Lohia,65,Indonesia,M,polyester,Manufacturing,7000
+232,Lu Zhiqiang,65,China,M,real estate,Real Estate,7000
+233,Jorn Rausing,58,Sweden,M,packaging,Food and Beverage,7000
+234,Johann Rupert,68,South Africa,M,luxury goods,Fashion & Retail,7000
+235,Jacques Saade,81,France,M,shipping,Logistics,7000
+236,Wu Shaoxun,62,China,M,wine,Food and Beverage,7000
+237,Leonid Fedun,62,Russia,M,oil,Energy,6900
+238,Kim Jung-Ju,50,South Korea,M,online games,Technology,6900
+239,Sandra Ortega Mera,49,Spain,F,Zara,Fashion & Retail,6900
+240,Jim Pattison,89,Canada,M,diversified,Diversified,6900
+241,Michael Platt,50,United Kingdom,M,hedge funds,Finance and Investments,6900
+242,Chan Laiwa,77,China,F,real estate,Real Estate,6800
+243,David Green,76,United States,M,retail,Fashion & Retail,6800
+245,Dmitry Rybolovlev,51,Russia,M,fertilizer,Manufacturing,6800
+246,Tsai Eng-Meng,61,Taiwan,M,"food, beverages",Food and Beverage,6800
+247,Andreas von Bechtolsheim,62,Germany,M,Google,Technology,6800
+248,Oleg Deripaska,50,Russia,M,"aluminum, utilities",Metals & Mining,6700
+249,Liu Yongxing,70,China,M,diversified,Service,6700
+250,Ludwig Merckle,53,Germany,M,pharmaceuticals,Finance and Investments,6700
+251,Brian Acton,46,United States,M,WhatsApp,Technology,6600
+252,John Grayken,62,Ireland,M,private equity,Finance and Investments,6600
+253,Ann Walton Kroenke,69,United States,F,Walmart,Fashion & Retail,6600
+255,Finn Rausing,63,Sweden,M,packaging,Food and Beverage,6600
+256,Kirsten Rausing,66,Sweden,F,packaging,Food and Beverage,6600
+257,Odd Reitan,66,Norway,M,"retail, real estate",Fashion & Retail,6600
+258,Nassef Sawiris,57,Egypt,M,"construction, chemicals",Construction & Engineering,6600
+259,Wee Cho Yaw,89,Singapore,M,banking,Finance and Investments,6600
+260,Aloys Wobben,66,Germany,M,wind turbines,Energy,6600
+261,Leon Black,66,United States,M,private equity,Finance and Investments,6500
+262,Ivan Glasenberg,61,Switzerland,M,mining,Metals & Mining,6500
+263,John Paulson,62,United States,M,hedge funds,Finance and Investments,6500
+264,Wei Jianjun,54,China,M,automobiles,Automotive,6500
+265,Francis Choi,70,Hong Kong,M,real estate,Real Estate,6400
+266,Erivan Haub,85,Germany,M,retail,Fashion & Retail,6400
+267,Jason Jiang,45,China,M,advertising,Media & Entertainment,6400
+268,Suleiman Kerimov,52,Russia,M,investments,Finance and Investments,6400
+270,Pang Kang,62,China,M,soy sauce maker,Food and Beverage,6400
+271,David Shaw,67,United States,M,hedge funds,Finance and Investments,6400
+272,Kushal Pal Singh,86,India,M,real estate,Real Estate,6400
+273,John A. Sobrato,79,United States,M,real estate,Real Estate,6400
+274,Acharya Balkrishna,45,India,M,consumer goods,Food and Beverage,6300
+275,Guenther Fielmann,78,Germany,M,optometry,Healthcare,6300
+276,Daniel Gilbert,56,United States,M,Quicken Loans,Finance and Investments,6300
+277,Antonia Johnson,74,Sweden,F,diversified,Diversified,6300
+278,Vikram Lal,76,India,M,motorcycles,Automotive,6300
+279,Akira Mori,81,Japan,M,real estate,Real Estate,6300
+280,Maria-Elisabeth Schaeffler-Thumann,76,Germany,F,auto parts,Automotive,6300
+281,Albert Frere,92,Belgium,M,investments,Finance and Investments,6200
+282,Richard Kinder,73,United States,M,pipelines,Energy,6200
+283,Robert Kraft,77,United States,M,New England Patriots,Sports,6200
+284,Ralph Lauren,78,United States,M,Ralph Lauren,Fashion & Retail,6200
+285,Bruno Schroder,85,United Kingdom,M,banking,Finance and Investments,6200
+286,Nusli Wadia,74,India,M,consumer goods,Food and Beverage,6200
+287,Pierre Bellon,88,France,M,food services,Service,6100
+288,Les Wexner,80,United States,M,retail,Fashion & Retail,6100
+289,Benu Gopal Bangur,87,India,M,cement,Manufacturing,6000
+290,David Cheriton,67,Canada,M,Google,Technology,6000
+291,Ma Jianrong,54,China,M,"textiles, apparel",Fashion & Retail,6000
+292,Whitney MacMillan,88,United States,M,Cargill,Food and Beverage,6000
+293,Dan Olsson,71,Sweden,M,diversified,Diversified,6000
+294,Vivek Chaand Sehgal,61,Australia,M,auto parts,Automotive,6000
+295,Teh Hong Piow,88,Malaysia,M,banking,Finance and Investments,6000
+297,Maria Asuncion Aramburuzabala,55,Mexico,F,"beer, investments",Food and Beverage,5900
+298,Ralph Dommermuth,54,Germany,M,internet service provider,Technology,5900
+299,Frank Lowy,87,Australia,M,shopping malls,Real Estate,5900
+300,Wolfgang Marguerre,77,Germany,M,pharmaceuticals,Healthcare,5900
+301,Marijke Mars,53,United States,F,"candy, pet food",Food and Beverage,5900
+302,Pamela Mars,57,United States,F,"candy, pet food",Food and Beverage,5900
+303,Valerie Mars,59,United States,F,"candy, pet food",Food and Beverage,5900
+304,Victoria Mars,61,United States,F,"candy, pet food",Food and Beverage,5900
+305,David & Frederick Barclay,84,United Kingdom,M,"media, retail",Diversified,5800
+306,"John Gokongwei, Jr.",91,Philippines,M,food and beverage,Diversified,5800
+307,Kwon Hyuk-Bin,44,South Korea,M,online games,Technology,5800
+308,Nancy Walton Laurie,67,United States,F,Walmart,Fashion & Retail,5800
+309,Lin Yu-Ling,81,Taiwan,M,real estate,Real Estate,5800
+311,Robert Rowling,64,United States,M,investments,Energy,5800
+312,Dennis Washington,83,United States,M,"construction, mining",Logistics,5800
+313,Yao Liangsong,53,China,M,furniture,Manufacturing,5800
+314,Zhang Jindong,55,China,M,appliance retailer,Fashion & Retail,5800
+315,Juan Francisco Beckmann Vidal,78,Mexico,M,tequila,Food and Beverage,5700
+316,David Sun,66,United States,M,computer hardware,Technology,5700
+317,John Tu,76,United States,M,computer hardware,Technology,5700
+318,Martin Viessmann,64,Germany,M,heating equipment,Manufacturing,5700
+319,Stef Wertheimer,91,Israel,M,metalworking tools,Manufacturing,5700
+320,Hansjoerg Wyss,83,Switzerland,M,medical devices,Healthcare,5700
+321,James Dyson,71,United Kingdom,M,vacuums,Manufacturing,5600
+322,Laurence Graff,80,United Kingdom,M,diamond jewelry,Fashion & Retail,5600
+323,Jen-Hsun Huang,55,United States,M,semiconductors,Technology,5600
+324,Charles Johnson,85,United States,M,money management,Finance and Investments,5600
+325,Jerry Jones,75,United States,M,Dallas Cowboys,Sports,5600
+326,Kei Hoi Pang,52,China,M,real estate,Real Estate,5600
+328,Lee Shin Cheng,79,Malaysia,M,"palm oil, property",Manufacturing,5600
+329,Richard LeFrak,72,United States,M,real estate,Real Estate,5600
+330,Shigenobu Nagamori,73,Japan,M,motors,Manufacturing,5600
+331,Steven Rales,67,United States,M,manufacturing,Manufacturing,5600
+332,Friede Springer,75,Germany,F,publishing,Media & Entertainment,5600
+333,Yeung Kin-man,54,Hong Kong,M,electronics,Manufacturing,5600
+334,Rinat Akhmetov,51,Ukraine,M,"steel, coal",Metals & Mining,5500
+335,Shari Arison,60,Israel,F,Carnival Cruises,Service,5500
+336,Dannine Avara,54,United States,F,pipelines,Energy,5500
+337,Rahel Blocher,42,Switzerland,F,chemicals,Manufacturing,5500
+338,Andrew Currie,62,United Kingdom,M,chemicals,Manufacturing,5500
+339,Scott Duncan,35,United States,M,pipelines,Energy,5500
+340,Milane Frantz,48,United States,F,pipelines,Energy,5500
+341,Diane Hendricks,71,United States,F,roofing,Construction & Engineering,5500
+342,Magdalena Martullo-Blocher,49,Switzerland,F,chemicals,Manufacturing,5500
+343,Hiroshi Mikitani,53,Japan,M,online retail,Fashion & Retail,5500
+344,Gabe Newell,55,United States,M,videogames,Gambling & Casinos,5500
+345,Pan Sutong,55,Hong Kong,M,"real estate, finance",Real Estate,5500
+346,Anthony Pratt,58,Australia,M,manufacturing,Manufacturing,5500
+347,John Reece,61,United Kingdom,M,chemicals,Manufacturing,5500
+348,Randa Williams,56,United States,F,pipelines,Energy,5500
+349,Zhang Bangxin,38,China,M,after-school tutoring,Service,5500
+350,Zhang Shiping,71,China,M,aluminum products,Metals & Mining,5500
+351,Jean-Michel Besnier,51,France,M,cheese,Food and Beverage,5400
+352,Marie Besnier Beauvalot,37,France,F,cheese,Food and Beverage,5400
+353,Richard DeVos,92,United States,M,Amway,Service,5400
+354,Michael Herz,74,Germany,M,coffee,Fashion & Retail,5400
+355,Wolfgang Herz,67,Germany,M,coffee,Fashion & Retail,5400
+356,Kjeld Kirk Kristiansen,70,Denmark,M,Lego,Manufacturing,5400
+357,Sofie Kirk Kristiansen,42,Denmark,F,Lego,Manufacturing,5400
+360,Lin Xiucheng,62,China,M,electronics,Technology,5400
+361,Margarita Louis-Dreyfus,56,Switzerland,F,commodities,Food and Beverage,5400
+362,George Roberts,74,United States,M,private equity,Finance and Investments,5400
+363,"Edward Roski, Jr.",79,United States,M,real estate,Real Estate,5400
+365,Mike Adenuga,65,Nigeria,M,"telecom, oil",Diversified,5300
+366,Jim Davis,75,United States,M,New Balance,Manufacturing,5300
+367,David Filo,52,United States,M,Yahoo,Technology,5300
+368,Pansy Ho,55,Hong Kong,F,casinos,Gambling & Casinos,5300
+369,Henry Kravis,74,United States,M,private equity,Finance and Investments,5300
+370,Emanuele (Lino) Saputo,81,Canada,M,cheese,Food and Beverage,5300
+371,Xu Chuanhua,83,China,M,"chemicals, logistics",Manufacturing,5300
+372,Alexander Abramov,59,Russia,M,"steel, mining",Metals & Mining,5200
+373,Israel Englander,69,United States,M,hedge funds,Finance and Investments,5200
+374,Frits Goldschmeding,84,Netherlands,M,temp agency,Service,5200
+375,Marian Ilitch,85,United States,F,"pizza, sports team",Food and Beverage,5200
+376,Bruce Kovner,73,United States,M,hedge funds,Finance and Investments,5200
+377,George Lucas,74,United States,M,Star Wars,Media & Entertainment,5200
+378,Kalanithi Maran,52,India,M,media,Media & Entertainment,5200
+379,Elisabeth Mohn,77,Germany,F,publishing,Media & Entertainment,5200
+380,"Robert Rich, Jr.",77,United States,M,frozen foods,Food and Beverage,5200
+381,Wang Chuanfu,52,China,M,"batteries, automobiles",Automotive,5200
+382,Maria Fernanda Amorim,83,Portugal,F,"energy, investments",Diversified,5100
+383,Pyotr Aven,63,Russia,M,"oil, banking, telecom",Energy,5100
+384,Bernard Marcus,89,United States,M,Home Depot,Fashion & Retail,5100
+385,Pedro Moreira Salles,58,Brazil,M,"banking, minerals",Diversified,5100
+386,Frederick Smith,73,United States,M,FedEx,Logistics,5100
+387,Ronda Stryker,64,United States,F,medical equipment,Healthcare,5100
+388,Richard Branson,67,United Kingdom,M,Virgin,Diversified,5000
+389,Subhash Chandra,67,India,M,media,Media & Entertainment,5000
+390,Denise Coates,50,United Kingdom,F,online gambling,Gambling & Casinos,5000
+391,Martha Ingram,82,United States,F,"book distribution, transportation",Media & Entertainment,5000
+392,Law Kar Po,70,Hong Kong,M,real estate,Real Estate,5000
+393,Joe Lewis,81,United Kingdom,M,investments,Finance and Investments,5000
+394,Gabriella Meister,70,Germany,F,appliances,Manufacturing,5000
+395,Fernando Roberto Moreira Salles,72,Brazil,M,"banking, minerals",Diversified,5000
+396,Joao Moreira Salles,56,Brazil,M,"banking, minerals",Diversified,5000
+397,Walther Moreira Salles Junior,62,Brazil,M,"banking, minerals",Finance and Investments,5000
+398,Pankaj Patel,65,India,M,pharmaceuticals,Healthcare,5000
+399,Karen Pritzker,60,United States,F,"hotels, investments",Service,5000
+400,Thomas Schmidheiny,72,Switzerland,M,cement,Construction & Engineering,5000
+401,Vichai Srivaddhanaprabha,60,Thailand,M,duty-free,Fashion & Retail,5000
+402,Keiichiro Takahara,87,Japan,M,diapers,Manufacturing,5000
+403,M.A. Yusuff Ali,62,India,M,retail,Fashion & Retail,5000
+404,Robert Bass,70,United States,M,"oil, investments",Energy,4900
+405,Marc Benioff,53,United States,M,business software,Technology,4900
+407,Chung Mong-Koo,80,South Korea,M,motor vehicles,Automotive,4900
+408,Charles Dolan,91,United States,M,cable television,Media & Entertainment,4900
+409,Ray Lee Hunt,75,United States,M,"oil, real estate",Energy,4900
+410,Liu Yonghao,66,China,M,agribusiness,Service,4900
+411,John Overdeck,48,United States,M,hedge funds,Finance and Investments,4900
+412,Ajay Piramal,62,India,M,pharmaceuticals,Healthcare,4900
+413,"Enrique Razon, Jr.",58,Philippines,M,ports,Logistics,4900
+414,Sumner Redstone,95,United States,M,media,Media & Entertainment,4900
+416,Reinhold Schmieding,63,United States,M,medical devices,Healthcare,4900
+417,David Siegel,56,United States,M,hedge funds,Finance and Investments,4900
+418,Andrei Skoch,52,Russia,M,steel,Metals & Mining,4900
+419,Yu Yong,57,China,M,mining,Finance and Investments,4900
+420,Sam Zell,76,United States,M,"real estate, private equity",Real Estate,4900
+421,Zhou Jianping,58,China,M,fashion retail,Fashion & Retail,4900
+423,Garrett Camp,39,Canada,M,Uber,Technology,4800
+424,Bubba Cathy,64,United States,M,Chick-fil-A,Food and Beverage,4800
+425,Dan Cathy,65,United States,M,Chick-fil-A,Food and Beverage,4800
+426,Fu Liquan,50,China,M,surveillance equipment,Technology,4800
+428,Mikhail Gutseriev,60,Russia,M,"oil, real estate",Energy,4800
+429,"Rupert Johnson, Jr.",77,United States,M,money management,Finance and Investments,4800
+430,Travis Kalanick,41,United States,M,Uber,Technology,4800
+431,Andrei Kozitsyn,58,Russia,M,metals,Metals & Mining,4800
+432,Horst Paulmann,83,Chile,M,retail,Fashion & Retail,4800
+433,Julio Ponce Lerou,72,Chile,M,fertilizer,Metals & Mining,4800
+434,Trevor Rees-Jones,66,United States,M,oil & gas,Energy,4800
+435,Mark Scheinberg,44,Canada,M,online gambling,Gambling & Casinos,4800
+436,Jeffrey Skoll,53,United States,M,eBay,Technology,4800
+437,Murat Ulker,59,Turkey,M,food,Food and Beverage,4800
+438,Daniel Ziff,46,United States,M,investments,Finance and Investments,4800
+439,Dirk Ziff,54,United States,M,investments,Finance and Investments,4800
+440,Robert Ziff,51,United States,M,investments,Finance and Investments,4800
+441,Juergen Blickle,71,Germany,M,auto parts,Manufacturing,4700
+442,Bernard Broermann,74,Germany,M,hospitals,Healthcare,4700
+443,Clive Calder,71,United Kingdom,M,record label,Media & Entertainment,4700
+444,Stanley Druckenmiller,65,United States,M,hedge funds,Finance and Investments,4700
+445,Ted Lerner,92,United States,M,real estate,Real Estate,4700
+446,Li Shuirong,61,China,M,petrochemicals,Manufacturing,4700
+447,Lim Kok Thay,66,Malaysia,M,casinos,Gambling & Casinos,4700
+448,Niels Peter Louis-Hansen,70,Denmark,M,medical devices,Healthcare,4700
+449,Fredrik Lundberg,66,Sweden,M,"real estate, investments",Real Estate,4700
+450,Gwendolyn Sontheim Meyer,56,United States,F,Cargill,Food and Beverage,4700
+451,J. Christopher Reyes,64,United States,M,food distribution,Food and Beverage,4700
+452,Jude Reyes,62,United States,M,food distribution,Food and Beverage,4700
+453,Alexandra Schoerghuber,59,Germany,F,real estate,Real Estate,4700
+454,Sheldon Solow,89,United States,M,real estate,Real Estate,4700
+455,Lucio Tan,83,Philippines,M,diversified,Diversified,4700
+457,Andrej Babis,63,Czech Republic,M,agriculture,Food and Beverage,4600
+458,Dona Bertarelli,50,Switzerland,F,biotech,Diversified,4600
+459,Cai Kui,55,China,M,real estate,Real Estate,4600
+460,Bidzina Ivanishvili,62,Georgia,M,investments,Finance and Investments,4600
+461,"Jeremy Jacobs, Sr.",78,United States,M,concessions,Service,4600
+462,Chris Larsen,58,United States,M,cryptocurrency,Finance and Investments,4600
+463,Patrick Lee,76,Hong Kong,M,paper,Manufacturing,4600
+464,Liang Wengen,61,China,M,construction equipment,Manufacturing,4600
+465,Denis O'Brien,60,Ireland,M,telecom,Telecom,4600
+467,Jean-Pierre Cayard,75,France,M,spirits,Food and Beverage,4500
+468,Chey Tae-Won,57,South Korea,M,"IT, telecom",Telecom,4500
+469,Fang Wei,44,China,M,steel,Manufacturing,4500
+470,Andrei Guriev,58,Russia,M,fertilizers,Manufacturing,4500
+471,Bertil Hult,77,Sweden,M,education,Service,4500
+472,Ji Changqun,50,China,M,real estate,Real Estate,4500
+473,"Paul Tudor Jones, II.",63,United States,M,hedge funds,Finance and Investments,4500
+474,Robert Miller,85,United Kingdom,M,retail,Fashion & Retail,4500
+475,Sergei Popov,46,Russia,M,banking,Finance and Investments,4500
+476,Juan Roig,68,Spain,M,supermarkets,Fashion & Retail,4500
+477,John Sall,70,United States,M,software,Technology,4500
+478,Leonard Stern,80,United States,M,real estate,Real Estate,4500
+479,Ye Chenghai,74,Hong Kong,M,pharmaceuticals,Healthcare,4500
+480,Anthony Bamford,72,United Kingdom,M,construction equipment,Construction & Engineering,4400
+481,Chu Mang Yee,58,China,M,real estate,Real Estate,4400
+482,Juan Carlos Escotet,58,Venezuela,M,banking,Finance and Investments,4400
+483,Miguel Fluxa Rossello,79,Spain,M,hotels,Service,4400
+484,Andrew Forrest,56,Australia,M,mining,Metals & Mining,4400
+485,Paul Gauselmann,83,Germany,M,gambling,Gambling & Casinos,4400
+486,Tamara Gustavson,56,United States,F,self storage,Service,4400
+487,Micky Jagtiani,66,India,M,retail,Fashion & Retail,4400
+488,Johan Johannson,51,Norway,M,grocery stores,Fashion & Retail,4400
+489,Richard Li,51,Hong Kong,M,telecom,Telecom,4400
+490,John Morris,70,United States,M,sporting goods retail,Fashion & Retail,4400
+491,Theo Mueller,78,Germany,M,dairy,Food and Beverage,4400
+492,Akio Nitori,74,Japan,M,home furnishings,Fashion & Retail,4400
+493,Wolfgang Reimann,65,Germany,M,consumer goods,Fashion & Retail,4400
+494,Matthias Reimann-Andersen,53,Germany,M,consumer goods,Fashion & Retail,4400
+495,Stefan Reimann-Andersen,54,Germany,M,consumer goods,Fashion & Retail,4400
+496,Renate Reimann-Haas,66,Germany,F,consumer goods,Fashion & Retail,4400
+497,Robert Smith,55,United States,M,private equity,Finance and Investments,4400
+498,Russ Weiner,48,United States,M,energy drinks,Food and Beverage,4400
+499,Jeronimo Arango,92,Mexico,M,retail,Fashion & Retail,4300
+500,Rahul Bajaj,80,India,M,motorcycles,Automotive,4300
+501,Rainer Blickle,70,Germany,M,auto parts,Manufacturing,4300
+502,Rocco Commisso,68,United States,M,telecom,Telecom,4300
+503,Giuseppe De'Longhi,79,Italy,M,coffee makers,Fashion & Retail,4300
+504,Tilman Fertitta,60,United States,M,"Houston Rockets, entertainment",Food and Beverage,4300
+505,Nathan Kirsh,86,Swaziland,M,"retail, real estate",Fashion & Retail,4300
+506,Terrence Pegula,67,United States,M,natural gas,Energy,4300
+507,Robert Pera,40,United States,M,wireless networking gear,Technology,4300
+508,Gary Rollins,73,United States,M,pest control,Service,4300
+509,Randall Rollins,86,United States,M,pest control,Service,4300
+510,Alejandro Santo Domingo,41,United States,M,beer,Food and Beverage,4300
+511,Andres Santo Domingo,40,United States,M,beer,Food and Beverage,4300
+512,Pham Nhat Vuong,49,Vietnam,M,diversified,Diversified,4300
+513,Roger Wang,69,United States,M,retail,Fashion & Retail,4300
+514,Stephen Bisciotti,58,United States,M,"staffing, Baltimore Ravens",Sports,4200
+515,"Austen Cargill, II.",67,United States,M,Cargill,Food and Beverage,4200
+516,"James Cargill, II.",69,United States,M,Cargill,Food and Beverage,4200
+517,Archie Aldis Emmerson,89,United States,M,"timberland, lumber mills",Manufacturing,4200
+518,Antti Herlin,61,Finland,M,"elevators, escalators",Manufacturing,4200
+519,Sumet Jiaravanon,83,Thailand,M,diversified,Diversified,4200
+520,Lars Larsen,69,Denmark,M,retail,Fashion & Retail,4200
+521,Marianne Liebmann,64,United States,F,Cargill,Food and Beverage,4200
+522,Bobby Murphy,29,United States,M,Snapchat,Technology,4200
+523,Igor Olenicoff,75,United States,M,real estate,Real Estate,4200
+524,"Walter Scott, Jr.",87,United States,M,"utilities, telecom",Energy,4200
+525,"Clemmie Spangler, Jr.",86,United States,M,investments,Finance and Investments,4200
+526,Wang Yusuo,54,China,M,natural gas distribution,Energy,4200
+527,Carl Bennet,66,Sweden,M,investments,Finance and Investments,4100
+528,Arthur Blank,75,United States,M,Home Depot,Sports,4100
+529,Jaran Chiaravanont,88,Thailand,M,diversified,Diversified,4100
+531,Fan Hongwei,51,China,F,petrochemicals,Energy,4100
+532,John Gandel,83,Australia,M,shopping malls,Real Estate,4100
+533,James Jannard,69,United States,M,sunglasses,Fashion & Retail,4100
+534,Montri Jiaravanont,87,Thailand,M,diversified,Diversified,4100
+535,Samuel Tak Lee,79,Hong Kong,M,real estate,Real Estate,4100
+536,Pawan Munjal,64,India,M,motorcycles,Automotive,4100
+537,Axel Oberwelland,51,Germany,M,candy,Food and Beverage,4100
+538,James Packer,50,Australia,M,casinos,Gambling & Casinos,4100
+539,Isaac Perlmutter,75,United States,M,Marvel comics,Media & Entertainment,4100
+540,"H. Ross Perot, Sr.",87,United States,M,"computer services, real estate",Diversified,4100
+541,Michael Pieper,72,Switzerland,M,kitchen appliances,Manufacturing,4100
+542,Thomas Pritzker,68,United States,M,"hotels, investments",Finance and Investments,4100
+543,"Julian Robertson, Jr.",85,United States,M,hedge funds,Finance and Investments,4100
+544,Renzo Rosso,62,Italy,M,fashion,Fashion & Retail,4100
+545,Hussain Sajwani,65,United Arab Emirates,M,real estate,Real Estate,4100
+546,Yasumitsu Shigeta,53,Japan,M,mobile phone retailer,Telecom,4100
+547,Evan Spiegel,28,United States,M,Snapchat,Technology,4100
+548,Wang Xing,45,China,M,e-commerce,Technology,4100
+549,Kelcy Warren,62,United States,M,pipelines,Energy,4100
+550,Ben Ashkenazy,48,United States,M,real estate,Real Estate,4000
+552,Otto Philipp Braun,40,Germany,M,medical technology,Healthcare,4000
+553,Che Jianxing,51,China,M,furniture retailing,Fashion & Retail,4000
+554,Dagmar Dolby,76,United States,F,Dolby Laboratories,Technology,4000
+555,Traudl Engelhorn,91,Germany,F,"pharmaceuticals, medical equipment",Healthcare,4000
+556,Dan Friedkin,53,United States,M,Toyota dealerships,Automotive,4000
+557,Sergei Galitsky,50,Russia,M,retail,Fashion & Retail,4000
+558,Huang Rulun,66,China,M,real estate,Real Estate,4000
+559,Erman Ilicak,50,Turkey,M,construction,Construction & Engineering,4000
+560,Ronald Lauder,74,United States,M,Estee Lauder,Fashion & Retail,4000
+561,Michel Leclercq,79,France,M,sporting goods,Fashion & Retail,4000
+562,Michael Moritz,63,United States,M,venture capital,Technology,4000
+563,Issad Rebrab,74,Algeria,M,food,Food and Beverage,4000
+564,Naguib Sawiris,64,Egypt,M,telecom,Telecom,4000
+565,Richard Schulze,77,United States,M,Best Buy,Fashion & Retail,4000
+566,B.R. Shetty,76,India,M,healthcare,Healthcare,4000
+567,Jeff Sutton,58,United States,M,real estate,Real Estate,4000
+568,Tony Tan Caktiong,65,Philippines,M,food,Food and Beverage,4000
+569,Yu Huijiao,52,China,M,package delivery,Logistics,4000
+570,Zhang Xuexin,70,China,M,aluminum,Metals & Mining,4000
+571,Zhang Yiming,34,China,M,software,Technology,4000
+572,Suhail Bahwan,79,Oman,M,diversified,Diversified,3900
+573,Rick Caruso,59,United States,M,real estate,Real Estate,3900
+574,Tom Gores,53,United States,M,private equity,Finance and Investments,3900
+575,Peter Hargreaves,71,United Kingdom,M,financial services,Finance and Investments,3900
+576,Daniela Herz,64,Germany,F,coffee,Finance and Investments,3900
+577,Guenter Herz,77,Germany,M,coffee,Finance and Investments,3900
+578,Masatoshi Ito,94,Japan,M,retail,Fashion & Retail,3900
+579,Barry Lam,69,Taiwan,M,electronics,Technology,3900
+581,Ravi Pillai,64,India,M,construction,Construction & Engineering,3900
+583,Jerry Speyer,78,United States,M,real estate,Real Estate,3900
+584,Harry Stine,76,United States,M,agriculture,Food and Beverage,3900
+585,George Ty,85,Philippines,M,banking,Finance and Investments,3900
+586,Steven Udvar-Hazy,72,United States,M,aircraft leasing,Service,3900
+587,Christoph Zeller,61,Liechtenstein,M,dental implants,Healthcare,3900
+588,Nathan Blecharczyk,35,United States,M,Airbnb,Technology,3800
+589,Hubert Burda,78,Germany,M,publishing,Media & Entertainment,3800
+590,Chen Dongsheng,60,China,M,insurance,Finance and Investments,3800
+591,Brian Chesky,36,United States,M,Airbnb,Technology,3800
+592,Gustaf Douglas,80,Sweden,M,investments,Diversified,3800
+593,Joe Gebbia,36,United States,M,Airbnb,Technology,3800
+594,Peter Gilgan,67,Canada,M,homebuilding,Construction & Engineering,3800
+595,Jeff Greene,63,United States,M,"real estate, investments",Real Estate,3800
+596,Jiang Weiping,63,China,M,chemicals,Manufacturing,3800
+598,Li Wa,52,Hong Kong,M,real estate,Real Estate,3800
+599,Robert McNair,81,United States,M,"energy, sports",Sports,3800
+600,Masahiro Miki,62,Japan,M,shoes,Fashion & Retail,3800
+602,Ira Rennert,84,United States,M,investments,Finance and Investments,3800
+603,Henry Samueli,63,United States,M,semiconductors,Technology,3800
+604,Zeng Fangqin,52,China,F,smartphone components,Technology,3800
+605,Zhang Jin,46,China,M,diversified,Diversified,3800
+606,Nick Caporella,82,United States,M,beverages,Food and Beverage,3700
+607,Mark Cuban,59,United States,M,online media,Media & Entertainment,3700
+608,Ken Fisher,67,United States,M,money management,Finance and Investments,3700
+609,Jaime Gilinski Bacal,60,Colombia,M,banking,Finance and Investments,3700
+610,Andreas Halvorsen,57,Norway,M,hedge funds,Finance and Investments,3700
+611,H. Fisk Johnson,60,United States,M,cleaning products,Manufacturing,3700
+612,Imogene Powers Johnson,87,United States,F,cleaning products,Manufacturing,3700
+613,S. Curtis Johnson,63,United States,M,cleaning products,Manufacturing,3700
+614,Helen Johnson-Leipold,61,United States,F,cleaning products,Manufacturing,3700
+615,Winifred Johnson-Marquart,59,United States,F,cleaning products,Manufacturing,3700
+616,Viatcheslav Kantor,64,Russia,M,"fertilizer, real estate",Manufacturing,3700
+617,Samvel Karapetyan,52,Russia,M,real estate,Construction & Engineering,3700
+618,Marc Ladreit de Lacharriere,77,France,M,finance,Finance and Investments,3700
+619,Angela Leong,57,Hong Kong,F,casinos,Gambling & Casinos,3700
+620,Li Gaiteng,46,China,M,hair dryers,Manufacturing,3700
+621,Mangal Prabhat Lodha,62,India,M,real estate,Real Estate,3700
+622,Michael Milken,71,United States,M,investments,Finance and Investments,3700
+623,Yuri Milner,56,Russia,M,tech investments,Finance and Investments,3700
+624,Andreas Struengmann,68,Germany,M,pharmaceuticals,Healthcare,3700
+625,Thomas Struengmann,68,Germany,M,pharmaceuticals,Healthcare,3700
+626,Tse Ping,66,China,M,pharmaceuticals,Healthcare,3700
+627,Yitzhak Tshuva,69,Israel,M,real estate,Real Estate,3700
+628,Samuel Yin,67,Taiwan,M,diversified,Diversified,3700
+629,Michael Ashley,53,United Kingdom,M,sports retailing,Fashion & Retail,3600
+630,Cao Longxiang,60,China,M,pharmaceuticals,Healthcare,3600
+631,Jeffery Hildebrand,59,United States,M,oil,Energy,3600
+632,Jiang Rensheng,64,China,M,vaccine production,Healthcare,3600
+633,"Edward Johnson, IV.",53,United States,M,money management,Finance and Investments,3600
+634,Elizabeth Johnson,55,United States,F,money management,Finance and Investments,3600
+635,Peter Kellogg,75,United States,M,investments,Finance and Investments,3600
+636,Lim Sung-Ki,78,South Korea,M,pharmaceuticals,Healthcare,3600
+637,Friedhelm Loh,71,Germany,M,manufacturing,Manufacturing,3600
+638,Kiran Mazumdar-Shaw,65,India,F,biotech,Healthcare,3600
+639,Idan Ofer,62,Israel,M,"drilling, shipping",Diversified,3600
+640,Karsanbhai Patel,74,India,M,consumer goods,Diversified,3600
+641,Qin Yinglin,53,China,M,pig breeding,Food and Beverage,3600
+642,Qiu Guanghe,66,China,M,fashion retail,Fashion & Retail,3600
+643,Sarath Ratanavadi,52,Thailand,M,energy,Energy,3600
+644,Rodger Riney,72,United States,M,discount brokerage,Finance and Investments,3600
+645,Steven Spielberg,71,United States,M,Movies,Media & Entertainment,3600
+647,Arne Wilhelmsen,88,Norway,M,cruise ships,Logistics,3600
+648,Xu Jingren,73,China,M,pharmaceuticals,Healthcare,3600
+649,Zhang Li,65,China,M,real estate,Real Estate,3600
+650,Zhang Xin,52,China,F,real estate,Real Estate,3600
+651,Anita Zucker,66,United States,F,chemicals,Manufacturing,3600
+652,Carlo Benetton,74,Italy,M,"fashion retail, investments",Fashion & Retail,3500
+653,Gilberto Benetton,77,Italy,M,"fashion retail, investments",Fashion & Retail,3500
+654,Giuliana Benetton,80,Italy,F,"fashion retail, investments",Fashion & Retail,3500
+655,Luciano Benetton,83,Italy,M,"fashion retail, investments",Fashion & Retail,3500
+656,Chen Bang,52,China,M,hospitals,Healthcare,3500
+658,Abilio dos Santos Diniz,81,Brazil,M,retail,Fashion & Retail,3500
+659,Bernard Ecclestone,87,United Kingdom,M,Formula One,Sports,3500
+660,Judy Faulkner,74,United States,F,health IT,Technology,3500
+661,Gao Tianguo,66,China,M,"real estate, finance",Real Estate,3500
+662,Joshua Harris,53,United States,M,private equity,Finance and Investments,3500
+663,Arthur Irving,88,Canada,M,oil,Energy,3500
+664,Baba Kalyani,69,India,M,engineering,Construction & Engineering,3500
+665,Dmitry Kamenshchik,50,Russia,M,airport,Service,3500
+666,Douglas Leone,60,United States,M,venture capital,Finance and Investments,3500
+667,Edwin Leong,66,Hong Kong,M,real estate,Real Estate,3500
+668,Arnon Milchan,73,Israel,M,movie making,Media & Entertainment,3500
+670,Anthony Pritzker,57,United States,M,"hotels, investments",Service,3500
+671,Jay Robert (J.B.) Pritzker,53,United States,M,"hotels, investments",Finance and Investments,3500
+672,Mitchell Rales,61,United States,M,"manufacturing, investments",Manufacturing,3500
+673,Kjell Inge Rokke,59,Norway,M,"shipping, seafood",Logistics,3500
+674,"Bernard Saul, II.",86,United States,M,"banking, real estate",Finance and Investments,3500
+675,Donald Sterling,84,United States,M,real estate,Real Estate,3500
+676,Tahir,66,Indonesia,M,diversified,Diversified,3500
+677,Chairul Tanjung,56,Indonesia,M,diversified,Diversified,3500
+678,Clemens Toennies,62,Germany,M,meat processing,Food and Beverage,3500
+679,Somphote Ahunai,51,Thailand,M,energy,Energy,3400
+680,Igor Altushkin,47,Russia,M,metals,Metals & Mining,3400
+681,Riley Bechtel,66,United States,M,"engineering, construction",Construction & Engineering,3400
+682,"Stephen Bechtel, Jr.",93,United States,M,"engineering, construction",Construction & Engineering,3400
+683,Mike Cannon-Brookes,38,Australia,M,software,Technology,3400
+684,Rafael Del Pino y Calvo-Sotelo,59,Spain,M,construction,Construction & Engineering,3400
+685,Antonio Del Valle Ruiz,79,Mexico,M,chemicals,Manufacturing,3400
+686,Scott Farquhar,38,Australia,M,software,Technology,3400
+687,Lindsay Fox,81,Australia,M,"logistics, real estate",Logistics,3400
+688,Jimmy Haslam,64,United States,M,"gas stations, retail",Fashion & Retail,3400
+689,Heidi Horten,77,Austria,F,retail,Fashion & Retail,3400
+690,Min Kao,69,United States,M,navigation equipment,Technology,3400
+691,Melissa Ma,48,China,F,internet search,Technology,3400
+692,Rudolf Maag,72,Switzerland,M,medical devices,Healthcare,3400
+693,Alexander Ponomarenko,53,Russia,M,"real estate, airport",Logistics,3400
+694,Carlos Rodriguez-Pastor,59,Peru,M,finance,Finance and Investments,3400
+696,Teddy Sagi,46,Israel,M,gambling software,Gambling & Casinos,3400
+697,Shaul Shani,63,Israel,M,telecom,Telecom,3400
+698,Alexander Skorobogatko,50,Russia,M,"real estate, airport",Logistics,3400
+699,Sun Guangxin,55,China,M,diversified,Diversified,3400
+700,Rita Tong Liu,69,Hong Kong,F,real estate,Real Estate,3400
+701,Juan-Miguel Villar Mir,86,Spain,M,construction,Construction & Engineering,3400
+702,Steve Wynn,76,United States,M,"casinos, hotels",Gambling & Casinos,3400
+703,Anil Agarwal,64,India,M,"mining, metals",Metals & Mining,3300
+705,John Arnold,44,United States,M,hedge funds,Finance and Investments,3300
+706,Sid Bass,76,United States,M,"oil, investments",Energy,3300
+707,Alain Bouchard,69,Canada,M,retail,Fashion & Retail,3300
+708,John Brown,83,United States,M,medical equipment,Healthcare,3300
+709,Vanich Chaiyawan,86,Thailand,M,"insurance, beverages",Finance and Investments,3300
+710,Chen Lip Keong,70,Malaysia,M,"casinos, property, energy",Gambling & Casinos,3300
+711,Charles Cohen,66,United States,M,real estate,Real Estate,3300
+712,Ashwin Dani,75,India,M,paints,Manufacturing,3300
+713,Rakesh Gangwal,64,United States,M,airline,Service,3300
+714,Reid Hoffman,50,United States,M,LinkedIn,Technology,3300
+715,"Amos Hostetter, Jr.",81,United States,M,cable television,Media & Entertainment,3300
+716,Zarakh Iliev,51,Russia,M,real estate,Real Estate,3300
+717,Ji Qi,51,China,M,"hotels, motels",Real Estate,3300
+718,Kenneth Langone,82,United States,M,investments,Finance and Investments,3300
+719,Li Sze Lim,61,Hong Kong,M,real estate,Real Estate,3300
+720,George Lindemann,82,United States,M,investments,Finance and Investments,3300
+721,Liu Zhongtian,54,China,M,aluminum products,Manufacturing,3300
+722,Luo Liguo,62,China,M,chemicals,Manufacturing,3300
+723,Mary Alice Dorrance Malone,68,United States,F,Campbell Soup,Food and Beverage,3300
+724,"Henry Nicholas, III.",58,United States,M,semiconductors,Technology,3300
+725,God Nisanov,46,Russia,M,real estate,Real Estate,3300
+726,Pat Stryker,62,United States,F,medical equipment,Healthcare,3300
+727,Alexander Svetakov,50,Russia,M,real estate,Finance and Investments,3300
+728,Hans Peter Wild,77,Switzerland,M,flavorings,Food and Beverage,3300
+729,Yvonne Bauer,41,Germany,F,media,Media & Entertainment,3200
+730,Patrizio Bertelli,72,Italy,M,luxury goods,Fashion & Retail,3200
+731,Neil Bluhm,80,United States,M,real estate,Real Estate,3200
+733,Scott Cook,65,United States,M,software,Technology,3200
+734,Leon G. Cooperman,75,United States,M,hedge funds,Finance and Investments,3200
+735,John Paul DeJoria,74,United States,M,"hair products, tequila",Fashion & Retail,3200
+736,Martin Ebner,72,Switzerland,M,investments,Finance and Investments,3200
+737,Walter Faria,63,Brazil,M,beer,Food and Beverage,3200
+738,Sameer Gehlaut,44,India,M,finance,Finance and Investments,3200
+739,Tom Golisano,76,United States,M,payroll services,Service,3200
+740,Otto Happel,70,Germany,M,engineering,Construction & Engineering,3200
+741,Jiang Bin,51,China,M,acoustic components,Technology,3200
+742,Karel Komarek,49,Czech Republic,M,lotteries,Gambling & Casinos,3200
+743,Kurt Krieger,70,Germany,M,furniture retailing,Fashion & Retail,3200
+744,Timur Kulibaev,51,Kazakhstan,M,banking,Finance and Investments,3200
+745,Dinara Kulibaeva,50,Kazakhstan,F,banking,Finance and Investments,3200
+746,Spiro Latsis,71,Greece,M,"banking, shipping",Diversified,3200
+747,Daniel Loeb,56,United States,M,hedge funds,Finance and Investments,3200
+748,Luo Jye,92,Taiwan,M,tires,Automotive,3200
+749,Ronald McAulay,82,Hong Kong,M,energy,Energy,3200
+750,Alain Merieux,80,France,M,pharmaceuticals,Healthcare,3200
+751,Hans Georg Naeder,56,Germany,M,prosthetics,Manufacturing,3200
+752,Nie Tengyun,42,China,M,logistics,Service,3200
+753,Daniel Och,57,United States,M,hedge funds,Finance and Investments,3200
+754,Miuccia Prada,69,Italy,F,luxury goods,Fashion & Retail,3200
+755,Marc Rowan,55,United States,M,private equity,Finance and Investments,3200
+756,Haim Saban,73,United States,M,"TV network, investments",Media & Entertainment,3200
+757,Alvaro Saieh Bendeck,68,Chile,M,banking,Finance and Investments,3200
+758,Michael & Reiner Schmidt-Ruthenbeck,75,Germany,M,retail,Fashion & Retail,3200
+759,Lynn Schusterman,79,United States,F,"oil & gas, investments",Energy,3200
+760,Mark Shoen,67,United States,M,U-Haul,Automotive,3200
+761,Michal Solowow,55,Poland,M,investments,Finance and Investments,3200
+762,Daniel Tsai,62,Taiwan,M,finance,Finance and Investments,3200
+763,Richard Tsai,61,Taiwan,M,finance,Finance and Investments,3200
+764,Frank Wang,37,China,M,drones,Technology,3200
+765,Meg Whitman,61,United States,F,eBay,Technology,3200
+766,John Catsimatidis,69,United States,M,"oil, real estate",Energy,3100
+768,Cheng Cheung Ling,54,China,F,pharmaceuticals,Healthcare,3100
+769,Barry Diller,76,United States,M,online media,Media & Entertainment,3100
+770,Jack Dorsey,41,United States,M,Twitter,Technology,3100
+771,Yakir Gabay,52,Cyprus,M,real estate,Real Estate,3100
+772,Allan Goldman,75,United States,M,real estate,Real Estate,3100
+773,Jane Goldman,62,United States,F,real estate,Real Estate,3100
+774,Amy Goldman Fowler,64,United States,F,real estate,Real Estate,3100
+775,Daryl Katz,56,Canada,M,pharmacies,Diversified,3100
+776,Diane Kemper,72,United States,F,real estate,Real Estate,3100
+777,Vladimir Kim,57,Kazakhstan,M,mining,Metals & Mining,3100
+778,Lai Meisong,47,China,M,package delivery,Logistics,3100
+779,Manuel Lao Hernandez,74,Spain,M,gambling,Gambling & Casinos,3100
+780,James Leprino,80,United States,M,cheese,Food and Beverage,3100
+781,Liang Xinjun,50,China,M,conglomerate,Diversified,3100
+782,Tom Morris,63,United Kingdom,M,retail,Fashion & Retail,3100
+783,Thi Phuong Thao Nguyen,48,Vietnam,F,airlines,Diversified,3100
+784,Rajan Raheja,64,India,M,diversified,Diversified,3100
+785,Ren Jianhua,61,China,M,kitchen appliances,Manufacturing,3100
+786,Richard Sands,67,United States,M,Food & Beverage,Food and Beverage,3100
+787,Kerry Stokes,77,Australia,M,"construction equipment, media",Diversified,3100
+788,Donald Trump,72,United States,M,"television, real estate",Real Estate,3100
+789,Romesh T. Wadhwani,70,United States,M,software,Technology,3100
+790,Wang Jian,64,China,M,healthcare services,Technology,3100
+791,Clifford Asness,51,United States,M,Investment Management,Finance and Investments,3000
+792,Anne Beaufour,54,France,F,pharmaceuticals,Healthcare,3000
+793,Henri Beaufour,53,France,M,pharmaceuticals,Healthcare,3000
+794,Tom Benson,90,United States,M,New Orleans Saints,Sports,3000
+795,Jim Breyer,56,United States,M,venture capital,Technology,3000
+796,Alejandro Bulgheroni,73,Argentina,M,oil & gas,Energy,3000
+797,Hasmukh Chudgar,84,India,M,pharmaceuticals,Healthcare,3000
+798,Ennio Doris,77,Italy,M,financial services,Finance and Investments,3000
+799,Luis Frias,55,Brazil,M,mobile payments,Technology,3000
+800,Valentin Gapontsev,79,United States,M,lasers,Manufacturing,3000
+801,Martin Haefner,64,Switzerland,M,"software, investments",Technology,3000
+802,Christopher Hohn,51,United Kingdom,M,Hedge funds,Finance and Investments,3000
+803,Johnelle Hunt,86,United States,F,trucking,Logistics,3000
+804,Rakesh Jhunjhunwala,57,India,M,investments,Finance and Investments,3000
+805,Lu Xiangyang,55,China,M,"automobiles, batteries",Automotive,3000
+806,John Middleton,63,United States,M,tobacco,Food and Beverage,3000
+807,Kazuo Okada,75,Japan,M,casinos,Gambling & Casinos,3000
+808,Jorge Perez,68,United States,M,real estate,Real Estate,3000
+809,Prasert Prasarttong-Osoth,85,Thailand,M,hospitals,Healthcare,3000
+810,Jean (Gigi) Pritzker,55,United States,F,"hotels, investments",Service,3000
+811,Mochtar Riady,89,Indonesia,M,diversified,Diversified,3000
+812,Arkady Rotenberg,66,Russia,M,"construction, pipes, banking",Construction & Engineering,3000
+813,Michael Rubin,45,United States,M,online retail,Fashion & Retail,3000
+814,Robert Sands,60,United States,M,Food & Beverage,Food and Beverage,3000
+815,Herbert Simon,83,United States,M,real estate,Real Estate,3000
+816,Robert Toennies,40,Germany,M,meat processing,Food and Beverage,3000
+817,Manuel Villar,68,Philippines,M,real estate,Real Estate,3000
+818,Don Vultaggio,66,United States,M,AriZona Beverages,Food and Beverage,3000
+819,Wang Zhenhua,56,China,M,real estate,Real Estate,3000
+820,Wu Kaiting,48,Hong Kong,M,electronics,Telecom,3000
+821,Simon Xie,48,China,M,online payment service,Technology,3000
+822,Chuck Bundrant,76,United States,M,fishing,Food and Beverage,2900
+823,Cai Dongchen,65,China,M,pharmaceuticals,Healthcare,2900
+825,Jason Chang,74,Singapore,M,electronics,Technology,2900
+826,Smita Crishna-Godrej,67,India,F,consumer goods,Diversified,2900
+827,Ding Shizhong,47,China,M,sports apparel,Fashion & Retail,2900
+828,Feng Hailiang,57,China,M,"copper, education",Metals & Mining,2900
+829,Gerald Ford,73,United States,M,banking,Finance and Investments,2900
+830,Philippe Foriel-Destezet,82,France,M,employment agency,Service,2900
+831,Adi Godrej,76,India,M,consumer goods,Diversified,2900
+832,Jamshyd Godrej,69,India,M,consumer goods,Diversified,2900
+833,Nadir Godrej,67,India,M,consumer goods,Diversified,2900
+834,Joseph Grendys,56,United States,M,poultry processing,Food and Beverage,2900
+835,Hedda im Brahm-Droege,63,Germany,F,consulting,Service,2900
+836,Ke Zunhong,63,China,M,pharmaceuticals,Healthcare,2900
+837,Randal Kirk,64,United States,M,pharmaceuticals,Healthcare,2900
+838,Alicia Koplowitz,64,Spain,F,"construction, investments",Finance and Investments,2900
+839,Kwek Leng Beng,77,Singapore,M,real estate,Real Estate,2900
+840,Louis Le Duff,71,France,M,bakeries,Food and Beverage,2900
+841,Yusaku Maezawa,42,Japan,M,online retail,Technology,2900
+842,Sergio Mantegazza,90,Switzerland,M,travel,Service,2900
+843,Hans Melchers,80,Netherlands,M,"chemicals, investments",Finance and Investments,2900
+844,Erwin Franz Mueller,85,Germany,M,drugstores,Fashion & Retail,2900
+845,Rishad Naoroji,66,India,M,consumer goods,Diversified,2900
+846,Husnu Ozyegin,73,Turkey,M,"finance, diversified",Finance and Investments,2900
+847,Prajogo Pangestu,74,Indonesia,M,petrochemicals,Diversified,2900
+848,Jeff Rothschild,63,United States,M,Facebook,Technology,2900
+849,Thomas Siebel,65,United States,M,business software,Technology,2900
+850,Paul Singer,73,United States,M,hedge funds,Finance and Investments,2900
+851,Ralph Sonnenberg,84,Netherlands,M,blinds,Manufacturing,2900
+852,Jon Stryker,60,United States,M,medical equipment,Healthcare,2900
+853,Georg Stumpf,45,Austria,M,"real estate, construction",Diversified,2900
+854,Tsai Hong-tu,65,Taiwan,M,finance,Finance and Investments,2900
+855,Vincent Viola,62,United States,M,electronic trading,Finance and Investments,2900
+856,Radovan Vitek,47,Czech Republic,M,real estate,Real Estate,2900
+857,Wang Laichun,51,China,F,electronics components,Technology,2900
+858,Wang Laisheng,53,China,M,electronics components,Technology,2900
+859,Carlos Ardila Lülle,88,Colombia,M,"soft drinks, diversified",Food and Beverage,2800
+860,"William Conway, Jr.",68,United States,M,private equity,Finance and Investments,2800
+861,Daniel D'Aniello,71,United States,M,private equity,Finance and Investments,2800
+862,Jim Davis,58,United States,M,staffing & recruiting,Service,2800
+863,Ding Shijia,54,China,M,sportswear,Fashion & Retail,2800
+864,"John Dorrance, III.",74,Ireland,M,Campbell Soup,Food and Beverage,2800
+865,Doris Fisher,86,United States,F,Gap,Fashion & Retail,2800
+866,John Fisher,57,United States,M,Gap,Fashion & Retail,2800
+867,Caroline Hagen Kjos,34,Norway,F,conglomerate,Diversified,2800
+868,Kieu Hoang,73,United States,M,medical products,Healthcare,2800
+869,Huang Shih Tsai,67,Hong Kong,M,real estate,Real Estate,2800
+870,H. Wayne Huizenga,80,United States,M,investments,Finance and Investments,2800
+871,Osman Kibar,47,United States,M,biotech,Healthcare,2800
+872,Aloke Lohia,59,India,M,petrochemicals,Manufacturing,2800
+873,Taha Mikati,73,Lebanon,M,telecom,Telecom,2800
+874,Philip Niarchos,64,Greece,M,art collection,Diversified,2800
+875,Stefan Olsson,69,Sweden,M,diversified,Diversified,2800
+876,Sebastian Piñera,68,Chile,M,investments,Finance and Investments,2800
+877,Penny Pritzker,59,United States,F,"hotels, investments",Finance and Investments,2800
+878,Nicolas Puech,75,France,M,Hermes,Fashion & Retail,2800
+879,Chandru Raheja,77,India,M,real estate,Real Estate,2800
+880,David Rubenstein,68,United States,M,private equity,Finance and Investments,2800
+881,Shi Yuzhu,55,China,M,"online games, investments",Diversified,2800
+882,Zygmunt Solorz-Zak,61,Poland,M,TV broadcasting,Media & Entertainment,2800
+883,Tung Chee Chen,76,Hong Kong,M,shipping,Logistics,2800
+884,Mark Walter,58,United States,M,finance,Finance and Investments,2800
+885,"William Wrigley, Jr.",54,United States,M,chewing gum,Food and Beverage,2800
+886,Mortimer Zuckerman,81,United States,M,"real estate, media",Real Estate,2800
+887,Mohed Altrad,70,France,M,"scaffolding, cement mixers",Construction & Engineering,2700
+888,Anil Ambani,59,India,M,diversified,Diversified,2700
+889,Roberto Angelini Rossi,69,Chile,M,"forestry, mining",Diversified,2700
+891,Pierre Chen,60,Taiwan,M,"art, electronics",Diversified,2700
+892,Ray Davis,76,United States,M,pipelines,Energy,2700
+893,"Edward DeBartolo, Jr.",71,United States,M,shopping centers,Real Estate,2700
+894,Bennett Dorrance,72,United States,M,Campbell Soup,Food and Beverage,2700
+895,Eduardo Eurnekian,85,Argentina,M,"airports, investments",Diversified,2700
+896,Piero Ferrari,73,Italy,M,automobiles,Automotive,2700
+897,Fiona Geminder,53,Australia,F,manufacturing,Manufacturing,2700
+898,Gu Yuhua,68,China,M,furniture,Manufacturing,2700
+899,Don Hankey,75,United States,M,auto loans,Finance and Investments,2700
+900,Reed Hastings,57,United States,M,Netflix,Media & Entertainment,2700
+901,Huang Wei,58,China,M,real estate,Real Estate,2700
+902,James Irsay,59,United States,M,Indianapolis Colts,Sports,2700
+903,Kim Beom-Su,52,South Korea,M,online services,Technology,2700
+904,Mustafa Kucuk,55,Turkey,M,fashion retail,Fashion & Retail,2700
+905,Mohamed Mansour,70,Egypt,M,diversified,Diversified,2700
+906,Najib Mikati,62,Lebanon,M,telecom,Telecom,2700
+907,Ermirio Pereira de Moraes,86,Brazil,M,diversified,Diversified,2700
+908,Bob Parsons,67,United States,M,web hosting,Technology,2700
+909,Krit Ratanarak,72,Thailand,M,"media, real estate",Media & Entertainment,2700
+910,Helena Revoredo,71,Spain,F,security services,Service,2700
+911,Phillip Ruffin,83,United States,M,"casinos, real estate",Diversified,2700
+912,Howard Schultz,64,United States,M,Starbucks,Food and Beverage,2700
+913,E. Joe Shoen,68,United States,M,U-Haul,Automotive,2700
+914,Thomas Straumann,54,Switzerland,M,dental implants,Healthcare,2700
+915,Lawrence Stroll,58,Canada,M,fashion investments,Fashion & Retail,2700
+916,Andrew Tan,65,Philippines,M,diversified,Diversified,2700
+918,Frank VanderSloot,69,United States,M,nutrition and wellness products,Fashion & Retail,2700
+919,Sandro Veronesi,58,Italy,M,fashion,Fashion & Retail,2700
+920,Ty Warner,73,United States,M,"real estate, plush toys",Real Estate,2700
+921,Oprah Winfrey,64,United States,F,TV shows,Media & Entertainment,2700
+922,Zhang Wenzhong,56,China,M,Retail,Fashion & Retail,2700
+923,Zuo Hui,47,China,M,real estate services,Real Estate,2700
+924,Juan Abello,76,Spain,M,investments,Finance and Investments,2600
+925,Semahat Sevim Arsel,89,Turkey,F,diversified,Diversified,2600
+926,Bang Jun-Hyuk,50,South Korea,M,online gaming,Technology,2600
+927,Koos Bekker,65,South Africa,M,"media, investments",Media & Entertainment,2600
+928,David Bonderman,75,United States,M,private equity,Finance and Investments,2600
+929,Francesco Gaetano Caltagirone,75,Italy,M,"cement, diversified",Construction & Engineering,2600
+930,John Caudwell,65,United Kingdom,M,mobile phones,Telecom,2600
+931,Chen Fashu,57,China,M,investments,Finance and Investments,2600
+932,Chung Eui-Sun,47,South Korea,M,logistics,Logistics,2600
+933,Isabel dos Santos,45,Angola,F,investments,Finance and Investments,2600
+934,Fong Yun Wah,93,Hong Kong,M,real estate,Real Estate,2600
+935,Phillip Frost,81,United States,M,pharmaceuticals,Healthcare,2600
+936,Lutz Mario Helmig,71,Germany,M,hospitals,Healthcare,2600
+937,B. Wayne Hughes,84,United States,M,self storage,Service,2600
+938,Daniel Kretinsky,42,Czech Republic,M,energy generation,Energy,2600
+939,Raj Kumar & Kishin RK,64,Singapore,M,real estate,Real Estate,2600
+940,Lam Kong,54,China,M,pharmaceuticals,Healthcare,2600
+941,Lau Cho Kun,82,Malaysia,M,"palm oil, property",Diversified,2600
+942,"Stephen Mandel, Jr.",62,United States,M,hedge funds,Finance and Investments,2600
+943,Gilles Martin,54,France,M,laboratory services,Healthcare,2600
+944,Daniel Mate,55,Spain,M,"mining, commodities",Metals & Mining,2600
+945,Robert Miller,72,Canada,M,electronics components,Technology,2600
+946,Jorge Moll Filho,73,Brazil,M,hospitals,Healthcare,2600
+947,Maria Helena Moraes Scripilliti,87,Brazil,F,diversified,Diversified,2600
+948,Sean Parker,38,United States,M,Facebook,Technology,2600
+949,Jay Paul,70,United States,M,real estate,Real Estate,2600
+950,Patrick Ryan,81,United States,M,insurance,Finance and Investments,2600
+951,Thomas Secunda,64,United States,M,Bloomberg LP,Media & Entertainment,2600
+952,Shen Wenrong,72,China,M,steel production,Metals & Mining,2600
+953,Shen Yuxing,59,China,M,real estate,Real Estate,2600
+954,Gil Shwed,50,Israel,M,software,Technology,2600
+955,Song Zuowen,71,China,M,"aluminum, diversified",Diversified,2600
+956,Warren Stephens,61,United States,M,investment banking,Finance and Investments,2600
+957,Glen Taylor,77,United States,M,printing,Service,2600
+958,Hanni Toosbuy Kasprzak,60,Denmark,F,shoes,Fashion & Retail,2600
+959,Torbjorn Tornqvist,64,Sweden,M,oil trading,Energy,2600
+960,Bulat Utemuratov,60,Kazakhstan,M,"mining, banking, hotels",Metals & Mining,2600
+961,Chip Wilson,61,Canada,M,Lululemon,Fashion & Retail,2600
+962,Jerry Yang,49,United States,M,Yahoo,Technology,2600
+963,Zhang Fan,52,China,M,touch screens,Technology,2600
+964,Zhu Xingliang,59,China,M,construction,Construction & Engineering,2600
+965,Ramon Ang,64,Philippines,M,Diversified,Food and Beverage,2500
+966,Edward Bass,72,United States,M,"oil, investments",Energy,2500
+967,Lee Bass,62,United States,M,"oil, investments",Energy,2500
+968,Bert Beveridge,56,United States,M,vodka,Food and Beverage,2500
+969,George Bishop,80,United States,M,oil & gas,Energy,2500
+970,Jaime Botin,82,Spain,M,banking,Finance and Investments,2500
+971,Norman Braman,85,United States,M,"art, car dealerships",Automotive,2500
+972,Chin Jong Hwa,60,Taiwan,M,auto parts,Automotive,2500
+973,Cho Tak Wong,72,Hong Kong,M,auto parts,Manufacturing,2500
+974,John Coates,48,United Kingdom,M,online gambling,Gambling & Casinos,2500
+975,Du Jiangtao,48,China,M,chemicals,Manufacturing,2500
+976,Aloysio de Andrade Faria,97,Brazil,M,banking,Finance and Investments,2500
+977,Kenneth Feld,69,United States,M,"circus, live entertainment",Media & Entertainment,2500
+978,Luca Garavoglia,49,Italy,M,spirits,Food and Beverage,2500
+979,Noam Gottesman,57,United States,M,hedge funds,Finance and Investments,2500
+980,Jonathan Gray,48,United States,M,investments,Finance and Investments,2500
+981,Stein Erik Hagen,61,Norway,M,consumer goods,Fashion & Retail,2500
+982,Chang-Woo Han,87,Japan,M,pachinko parlors,Gambling & Casinos,2500
+983,John Henry,68,United States,M,sports,Sports,2500
+984,Lawrence Ho,41,Hong Kong,M,casinos,Gambling & Casinos,2500
+985,Hui Lin Chit,65,China,M,hygiene products,Manufacturing,2500
+986,Mustafa Rahmi Koc,87,Turkey,M,diversified,Diversified,2500
+987,Kuan Kam Hon,70,Malaysia,M,synthetic gloves,Manufacturing,2500
+988,Jane Lauder,45,United States,F,cosmetics,Fashion & Retail,2500
+989,Aerin Lauder Zinterhofer,48,United States,F,cosmetics,Fashion & Retail,2500
+990,Maritsa Lazari,73,United Kingdom,F,real estate,Real Estate,2500
+991,Bernard Lewis,92,United Kingdom,M,fashion retailer,Fashion & Retail,2500
+992,Vincent Lo,69,Hong Kong,M,real estate,Real Estate,2500
+993,Jeffrey Lorberbaum,63,United States,M,flooring,Manufacturing,2500
+994,Joe Mansueto,61,United States,M,investment research,Finance and Investments,2500
+995,Jose Roberto Marinho,62,Brazil,M,media,Media & Entertainment,2500
+996,Roberto Irineu Marinho,70,Brazil,M,media,Media & Entertainment,2500
+997,C. Dean Metropoulos,72,United States,M,investments,Food and Beverage,2500
+998,Aristotelis Mistakidis,56,Greece,M,"mining, commodities",Metals & Mining,2500
+999,Arturo Moreno,71,United States,M,"billboards, Anaheim Angels",Sports,2500
+1000,Yoshiko Mori,77,Japan,F,real estate,Real Estate,2500
+1001,Adam Neumann,39,Israel,M,WeWork,Real Estate,2500
+1002,Or Wai Sheun,67,Hong Kong,M,real estate,Real Estate,2500
+1003,Richard Peery,79,United States,M,real estate,Real Estate,2500
+1004,Horst Julius Pudwill,73,Germany,M,manufacturing,Manufacturing,2500
+1005,P.V. Ramprasad Reddy,60,India,M,pharmaceuticals,Healthcare,2500
+1006,Larry Robbins,48,United States,M,hedge funds,Finance and Investments,2500
+1007,Carlos Sanchez,56,Brazil,M,generic drugs,Healthcare,2500
+1008,Stephan Schmidheiny,70,Switzerland,M,investments,Finance and Investments,2500
+1010,Charles Simonyi,69,United States,M,Microsoft,Technology,2500
+1011,Mark Stevens,58,United States,M,venture capital,Finance and Investments,2500
+1012,Sze Man Bok,68,China,M,hygiene products,Manufacturing,2500
+1013,Sarik Tara,88,Turkey,M,construction,Construction & Engineering,2500
+1014,Lottie Tham,69,Sweden,F,H&M,Fashion & Retail,2500
+1015,Peter Thiel,50,United States,M,"Facebook, Palantir",Finance and Investments,2500
+1016,Elaine Wynn,76,United States,F,"casinos, hotels",Gambling & Casinos,2500
+1017,Denise York,67,United States,F,San Francisco 49ers,Sports,2500
+1018,David Zalik,44,United States,M,technology,Technology,2500
+1019,Zhao Tao,52,Singapore,M,pharmaceuticals,Healthcare,2500
+1020,George Argyros,81,United States,M,"real estate, investments",Real Estate,2400
+1021,John Arrillaga,81,United States,M,real estate,Real Estate,2400
+1022,Charles Bronfman,86,Canada,M,liquor,Food and Beverage,2400
+1023,Peter Buck,87,United States,M,Subway sandwich shops,Food and Beverage,2400
+1024,Chen Jinxia,50,China,F,investments,Finance and Investments,2400
+1025,Vivien Chen,59,Hong Kong,F,real estate,Real Estate,2400
+1026,Chu Lam Yiu,48,Hong Kong,F,flavorings,Manufacturing,2400
+1027,Jean Coutu,91,Canada,M,drugstores,Fashion & Retail,2400
+1028,Jose Luis Cutrale,71,Brazil,M,orange juice,Food and Beverage,2400
+1030,Bergit Douglas,71,Germany,F,consumer goods,Food and Beverage,2400
+1031,Alfredo Egydio Arruda Villela Filho,48,Brazil,M,banking,Finance and Investments,2400
+1032,Marcel Erni,53,Switzerland,M,private equity,Finance and Investments,2400
+1033,Andre Esteves,49,Brazil,M,banking,Finance and Investments,2400
+1034,Carlo Fidani,63,Canada,M,real estate,Real Estate,2400
+1035,Abhay Firodia,73,India,M,automobiles,Automotive,2400
+1036,Alfred Gantner,50,Switzerland,M,private equity,Finance and Investments,2400
+1037,Geng Jianming,55,China,M,real estate,Real Estate,2400
+1038,Mitchell Goldhar,56,Canada,M,real estate,Real Estate,2400
+1039,Hortensia Herrero,68,Spain,F,supermarkets,Fashion & Retail,2400
+1040,Michael Hintze,64,Australia,M,investment,Finance and Investments,2400
+1041,Igor Kesaev,51,Russia,M,"tobacco distribution, retail",Fashion & Retail,2400
+1042,Koon Poh Keong,57,Malaysia,M,aluminum,Manufacturing,2400
+1043,Hermann Langness,65,Germany,M,retail,Food and Beverage,2400
+1044,Li Zhongchu,54,China,M,software,Technology,2400
+1045,Alexander Mamut,58,Russia,M,investments,Finance and Investments,2400
+1046,Joao Roberto Marinho,64,Brazil,M,media,Media & Entertainment,2400
+1047,"Drayton McLane, Jr.",81,United States,M,"Wal-Mart, logistics",Fashion & Retail,2400
+1048,Patrice Motsepe,56,South Africa,M,mining,Metals & Mining,2400
+1049,Alfred Oetker,51,Germany,M,consumer goods,Fashion & Retail,2400
+1050,August Oetker,74,Germany,M,consumer goods,Fashion & Retail,2400
+1051,Carl Ferdinand Oetker,45,Germany,M,consumer goods,Fashion & Retail,2400
+1052,Christian Oetker,70,Germany,M,consumer goods,Fashion & Retail,2400
+1053,Julia Oetker,39,Germany,F,consumer goods,Fashion & Retail,2400
+1054,Richard Oetker,67,Germany,M,consumer goods,Fashion & Retail,2400
+1055,Daniel Pritzker,58,United States,M,"hotels, investments",Service,2400
+1056,John Pritzker,65,United States,M,"hotels, investments",Finance and Investments,2400
+1057,Nevaldo Rocha,88,Brazil,M,retail,Fashion & Retail,2400
+1058,Luigi Rovati,89,Italy,M,pharmaceuticals,Healthcare,2400
+1059,Ferit Faik Sahenk,54,Turkey,M,diversified,Diversified,2400
+1060,Rosely Schweizer,77,Germany,F,consumer goods,Fashion & Retail,2400
+1061,Eric Smidt,58,United States,M,hardware stores,Fashion & Retail,2400
+1062,Alexander Spanos,94,United States,M,"real estate, Los Angeles Chargers",Sports,2400
+1063,Leena Tewari,60,India,F,pharmaceuticals,Healthcare,2400
+1064,Tong Jinquan,63,China,M,real estate,Real Estate,2400
+1065,Peter Unger,73,Germany,M,auto repair,Automotive,2400
+1066,Sunny Varkey,61,India,M,education,Service,2400
+1067,Urs Wietlisbach,56,Switzerland,M,private equity,Finance and Investments,2400
+1068,Michael Ying,68,Hong Kong,M,retail,Fashion & Retail,2400
+1069,Yu Minhong,56,China,M,education,Service,2400
+1070,Eva Maria Bucher-Haefner,61,Switzerland,F,Computer Associates,Technology,2300
+1071,Chen Hua,52,China,M,real estate,Real Estate,2300
+1072,Gustavo Denegri,82,Italy,M,biotech,Healthcare,2300
+1073,Dermot Desmond,67,Ireland,M,finance,Finance and Investments,2300
+1074,Murali Divi,67,India,M,pharmaceuticals,Healthcare,2300
+1075,Thomas Flohr,48,Switzerland,M,VistaJet,Logistics,2300
+1076,Bernard Fraisse,61,France,M,pharmaceuticals,Healthcare,2300
+1077,Harsh Goenka,60,India,M,diversified,Diversified,2300
+1078,David Gottesman,92,United States,M,investments,Finance and Investments,2300
+1080,Bill Haslam,59,United States,M,truck stops,Fashion & Retail,2300
+1081,Hu Baifan,55,China,M,pharmaceuticals,Healthcare,2300
+1082,W. Herbert Hunt,89,United States,M,oil,Energy,2300
+1083,Alijan Ibragimov,64,Kazakhstan,M,"mining, metals",Metals & Mining,2300
+1084,Bradley Jacobs,61,United States,M,logistics,Logistics,2300
+1085,Brad Kelley,61,United States,M,tobacco,Real Estate,2300
+1086,Vinod Khosla,63,United States,M,venture capital,Technology,2300
+1087,Stephen Lansdown,65,Guernsey,M,financial services,Finance and Investments,2300
+1088,Martin Lau,45,Hong Kong,M,e-commerce,Technology,2300
+1089,Lee Joong-Keun,77,South Korea,M,"construction, real estate",Construction & Engineering,2300
+1090,Lin Li,55,China,M,investments,Finance and Investments,2300
+1091,Kenneth Lo,79,United Kingdom,M,textiles,Finance and Investments,2300
+1092,Alexander Machkevich,64,Israel,M,"mining, metals",Metals & Mining,2300
+1093,Clayton Mathile,77,United States,M,pet food,Food and Beverage,2300
+1094,Stanley Perron,95,Australia,M,"real estate, retail",Real Estate,2300
+1095,J. Joe Ricketts,76,United States,M,TD Ameritrade,Finance and Investments,2300
+1096,Dirk Rossmann,71,Germany,M,drugstores,Fashion & Retail,2300
+1097,Filiz Sahenk,51,Turkey,F,diversified,Diversified,2300
+1098,Dan Snyder,53,United States,M,Washington Redskins,Sports,2300
+1099,Peter Spuhler,58,Switzerland,M,train cars,Manufacturing,2300
+1100,Tang Yiu,84,Hong Kong,M,fashion retail,Fashion & Retail,2300
+1101,John Tyson,64,United States,M,food processing,Food and Beverage,2300
+1102,Wong Man Li,53,Hong Kong,M,furniture,Manufacturing,2300
+1103,Lia Maria Aguiar,80,Brazil,F,banking,Finance and Investments,2200
+1104,Aziz Akhannouch,57,Morocco,M,"petroleum, diversified",Diversified,2200
+1105,Ron Baron,75,United States,M,money management,Finance and Investments,2200
+1106,Shyam & Hari Bhartia,65,India,M,Diversified,Diversified,2200
+1107,Timothy Boyle,68,United States,M,Columbia Sportswear,Fashion & Retail,2200
+1108,Tatiana Casiraghi,34,Monaco,F,beer,Food and Beverage,2200
+1110,"Chase Coleman, III.",43,United States,M,hedge fund,Finance and Investments,2200
+1111,Mark Coombs,57,United Kingdom,M,finance,Finance and Investments,2200
+1112,James Coulter,58,United States,M,private equity,Finance and Investments,2200
+1113,Dulce Pugliese de Godoy Bueno,70,Brazil,F,"hospitals, health care",Healthcare,2200
+1114,Ana Lucia de Mattos Barretto Villela,44,Brazil,F,banking,Finance and Investments,2200
+1115,"Frank Fertitta, III.",56,United States,M,"casinos, mixed martial arts",Sports,2200
+1116,Lorenzo Fertitta,49,United States,M,"casinos, mixed martial arts",Sports,2200
+1117,Maria Franca Fissolo,83,Italy,F,"Nutella, chocolates",Food and Beverage,2200
+1118,Alexander Frolov,54,Russia,M,"mining, steel",Metals & Mining,2200
+1119,"Ernest Garcia, II.",61,United States,M,used cars,Automotive,2200
+1120,Alexandre Grendene Bartelle,68,Brazil,M,shoes,Fashion & Retail,2200
+1121,Vinod & Anil Rai Gupta,72,India,F,electrical equipment,Manufacturing,2200
+1122,Torstein Hagen,75,Norway,M,cruises,Service,2200
+1123,He Qiaonv,52,China,F,landscape architecture,Service,2200
+1124,Hans-Werner Hector,78,Germany,M,SAP,Technology,2200
+1125,Stanley Hubbard,85,United States,M,DirecTV,Media & Entertainment,2200
+1126,Ke Xiping,58,China,M,investments,Diversified,2200
+1127,Suna Kirac,77,Turkey,F,diversified,Diversified,2200
+1128,Kong Jian Min,50,China,M,real estate,Real Estate,2200
+1129,Koo Bon-Moo,73,South Korea,M,Diversified,Diversified,2200
+1130,Heikki Kyostila,72,Finland,M,dental products,Healthcare,2200
+1131,Thomas Lee,74,United States,M,private equity,Finance and Investments,2200
+1132,Eric Lefkofsky,48,United States,M,Groupon,Technology,2200
+1133,Peter Lim,65,Singapore,M,investments,Finance and Investments,2200
+1135,Tomas Olivo Lopez,44,Spain,M,shopping centers,Real Estate,2200
+1136,Phillip T. (Terry) Ragon,69,United States,M,health IT,Technology,2200
+1137,Stewart Rahr,72,United States,M,drug distribution,Healthcare,2200
+1138,T. Denny Sanford,82,United States,M,"banking, credit cards",Finance and Investments,2200
+1139,"Julio Mario Santo Domingo, III.",33,United States,M,beer,Food and Beverage,2200
+1140,"Karl Scheufele, III.",79,Switzerland,M,jewelry,Fashion & Retail,2200
+1141,Shen Guojun,55,China,M,retail,Fashion & Retail,2200
+1142,Alain Taravella,70,France,M,real estate,Real Estate,2200
+1143,Oleg Tinkov,50,Russia,M,banking,Finance and Investments,2200
+1145,Tung Chee Hwa,81,Hong Kong,M,shipping,Logistics,2200
+1146,Ted Turner,79,United States,M,cable television,Media & Entertainment,2200
+1147,Sunil Vaswani,54,United Kingdom,M,diversified,Diversified,2200
+1148,Jitendra Virwani,52,India,M,real estate,Real Estate,2200
+1149,Lang Walker,72,Australia,M,real estate,Real Estate,2200
+1150,Wu Zhigang,83,China,M,bakery chain,Food and Beverage,2200
+1151,Xiao Wenge,51,China,M,entertainment,Media & Entertainment,2200
+1152,Xiong Xuqiang,61,Hong Kong,M,real estate,Real Estate,2200
+1153,Takao Yasuda,69,Japan,M,retail,Fashion & Retail,2200
+1154,William Young,77,United States,M,plastics,Manufacturing,2200
+1156,Zhang Xiugen,57,China,M,automobiles,Automotive,2200
+1157,Leslie Alexander,74,United States,M,sports team,Sports,2100
+1158,Patricia Angelini Rossi,64,Chile,F,"forestry, mining",Diversified,2100
+1159,Josef Boquoi,84,Germany,M,frozen foods,Food and Beverage,2100
+1160,Nikolai Buinov,50,Russia,M,"oil, gas",Energy,2100
+1161,Richard Chandler,59,New Zealand,M,investments,Finance and Investments,2100
+1162,Cheng Xue,48,China,F,soy sauce,Food and Beverage,2100
+1163,Patokh Chodiev,65,Belgium,M,"mining, metals",Metals & Mining,2100
+1164,Choo Chong Ngen,65,Singapore,M,hotels,Real Estate,2100
+1165,Todd Christopher,55,United States,M,hair care products,Fashion & Retail,2100
+1166,John de Mol,63,Netherlands,M,television,Media & Entertainment,2100
+1167,Bob Gaglardi,77,Canada,M,hotels,Real Estate,2100
+1168,Gordon Getty,84,United States,M,Getty Oil,Energy,2100
+1169,Philippe Ginestet,64,France,M,retail stores,Fashion & Retail,2100
+1170,Sanjiv Goenka,57,India,M,diversified,Diversified,2100
+1171,Alec Gores,65,United States,M,private equity,Finance and Investments,2100
+1172,David Hains,87,Australia,M,Investment,Finance and Investments,2100
+1173,Bahaa Hariri,52,Lebanon,M,"real estate, investments, logistics",Real Estate,2100
+1174,William Heinecke,69,Thailand,M,hotels,Real Estate,2100
+1175,Huang Hongyun,51,China,M,real estate,Real Estate,2100
+1176,Huang Zhenda,70,China,M,construction,Construction & Engineering,2100
+1177,Ravi Jaipuria,63,India,M,soft drinks,Food and Beverage,2100
+1178,Jiang Yehua,55,China,M,real estate,Real Estate,2100
+1179,Manuel Jove,77,Spain,M,real estate,Real Estate,2100
+1180,Willibert Krueger,77,Germany,M,food processing,Food and Beverage,2100
+1181,Kuok Khoon Hong,68,Singapore,M,palm oil,Manufacturing,2100
+1182,Christian Latouche,77,France,M,accounting services,Finance and Investments,2100
+1184,Li Hongxin,65,China,M,paper & related products,Manufacturing,2100
+1185,Li Xiting,67,China,M,medical devices,Healthcare,2100
+1186,Liang Yunchao,49,China,M,nutrition supplements,Food and Beverage,2100
+1187,Brandt Louie,74,Canada,M,drugstores,Food and Beverage,2100
+1188,Catherine Lozick,73,United States,F,valve manufacturing,Manufacturing,2100
+1189,Igor Makarov,56,Russia,M,investments,Energy,2100
+1190,Mao Lixiang,77,China,M,cooking appliances,Technology,2100
+1191,Harsh Mariwala,67,India,M,consumer goods,Food and Beverage,2100
+1192,Martin Moller Nielsen,53,Denmark,M,aircraft leasing,Logistics,2100
+1193,David Murdock,95,United States,M,"Dole, real estate",Food and Beverage,2100
+1194,N.R. Narayana Murthy,71,India,M,software services,Technology,2100
+1195,Georg Nemetschek,84,Germany,M,software,Technology,2100
+1196,Vikas Oberoi,47,India,M,real estate,Real Estate,2100
+1197,Maja Oeri,63,Switzerland,F,Roche Holding,Healthcare,2100
+1199,"H. Ross Perot, Jr.",59,United States,M,real estate,Real Estate,2100
+1200,Tor Peterson,53,United States,M,commodities,Metals & Mining,2100
+1201,Heloise Pratt,55,Australia,F,"manufacturing, investment",Manufacturing,2100
+1202,Alexey Repik,38,Russia,M,pharmaceuticals,Healthcare,2100
+1203,Shin Chang-Jae,64,South Korea,M,insurance,Finance and Investments,2100
+1204,Kavitark Ram Shriram,61,United States,M,"venture capital, Google",Technology,2100
+1205,Sylvia Stroeher,63,Germany,F,cosmetics,Fashion & Retail,2100
+1206,Katsumi Tada,72,Japan,M,real estate,Real Estate,2100
+1207,Tang Shing-bor,84,Hong Kong,M,real estate,Real Estate,2100
+1208,Georg von Opel,52,Switzerland,M,"real estate, investments",Finance and Investments,2100
+1209,David Walentas,79,United States,M,real estate,Real Estate,2100
+1210,Ronald Wanek,77,United States,M,furniture,Manufacturing,2100
+1211,Wang Changtian,53,China,M,"TV, movie production",Media & Entertainment,2100
+1212,Wang Wenjing,53,China,M,business software,Technology,2100
+1213,Ye Cheng,56,China,M,conglomerate,Diversified,2100
+1214,Zhu Gongshan,60,China,M,solar panel materials,Manufacturing,2100
+1215,Antti Aarnio-Wihuri,78,Finland,M,diversified,Diversified,2000
+1216,S. Daniel Abraham,93,United States,M,Slim-Fast,Food and Beverage,2000
+1217,Joao Alves de Queiroz Filho,65,Brazil,M,pharmaceuticals,Diversified,2000
+1218,Mika Anttonen,51,Finland,M,oil & gas,Energy,2000
+1219,Thor Bjorgolfsson,51,Iceland,M,investments,Diversified,2000
+1220,Andrei Bokarev,51,Russia,M,"metals, mining",Manufacturing,2000
+1221,Bernhard Braun-Luedicke,41,Germany,M,medical technology,Healthcare,2000
+1222,Eva Maria Braun-Luedicke,31,Germany,F,medical technology,Healthcare,2000
+1223,Friederike Braun-Luedicke,34,Germany,F,medical technology,Healthcare,2000
+1224,Ron Burkle,65,United States,M,"supermarkets, investments",Finance and Investments,2000
+1225,Vivek Chand Burman,81,India,M,consumer goods,Food and Beverage,2000
+1226,Chen Yung-Tai,82,Taiwan,M,real estate,Real Estate,2000
+1227,James Clark,74,United States,M,"Netscape, investments",Technology,2000
+1228,Christopher Cline,59,United States,M,coal,Energy,2000
+1229,Alexandra Daitch,55,United States,F,Cargill,Food and Beverage,2000
+1230,Dong Wei,47,China,M,pharmaceuticals,Healthcare,2000
+1232,Glenn Dubin,61,United States,M,hedge funds,Finance and Investments,2000
+1233,Robert Duggan,74,United States,M,pharmaceuticals,Healthcare,2000
+1234,Jayme Garfinkel,72,Brazil,M,insurance,Finance and Investments,2000
+1235,Sam Goi,69,Singapore,M,frozen foods,Food and Beverage,2000
+1236,Thomas Hagen,82,United States,M,insurance,Finance and Investments,2000
+1237,Carlos Hank Rhon,70,Mexico,M,banking,Diversified,2000
+1238,Christoph Henkel,60,Germany,M,consumer goods,Fashion & Retail,2000
+1239,Hu Kaijun,56,China,M,pharmaceuticals,Healthcare,2000
+1240,Huang Yi,56,Hong Kong,M,auto distribution,Automotive,2000
+1241,Ramesh Juneja,62,India,M,pharmaceuticals,Healthcare,2000
+1242,Bruce Karsh,62,United States,M,private equity,Finance and Investments,2000
+1243,Henry Laufer,72,United States,M,hedge funds,Finance and Investments,2000
+1244,Lee Boo-Jin,47,South Korea,F,"computer services, tourism",Service,2000
+1245,Lee Jay-Hyun,58,South Korea,M,"food products, entertainment",Diversified,2000
+1246,Wolfgang Leitner,65,Austria,M,engineering,Construction & Engineering,2000
+1247,Li Ge,51,China,M,biotech,Healthcare,2000
+1248,Harald Link,63,Thailand,M,diversified,Diversified,2000
+1249,Liu Ming Hui,55,China,M,natural gas distribution,Energy,2000
+1250,Jeffrey Lurie,66,United States,M,Philadelphia Eagles,Sports,2000
+1251,Ma Xingtian,48,China,M,pharmaceuticals,Healthcare,2000
+1252,Sarah MacMillan,64,United States,F,Cargill,Food and Beverage,2000
+1253,Howard Marks,72,United States,M,private equity,Finance and Investments,2000
+1254,Miao Shouliang,63,China,M,real estate,Real Estate,2000
+1255,Lachhman Das Mittal,87,India,M,tractors,Automotive,2000
+1256,Mario Moretti Polegato,65,Italy,M,shoes,Fashion & Retail,2000
+1257,Vadim Moshkovich,51,Russia,M,"agriculture, land",Food and Beverage,2000
+1258,Mofatraj Munot,73,India,M,real estate,Real Estate,2000
+1259,Jonathan Nelson,62,United States,M,private equity,Finance and Investments,2000
+1260,Florentino Perez,71,Spain,M,construction,Construction & Engineering,2000
+1262,Peter Peterson,92,United States,M,investments,Finance and Investments,2000
+1263,Arvind Poddar,60,India,M,tires,Automotive,2000
+1264,Murdaya Poo,77,Indonesia,M,diversified,Diversified,2000
+1265,Ren Zhengfei,74,China,M,telecom equipment,Telecom,2000
+1266,Antony Ressler,56,United States,M,finance,Finance and Investments,2000
+1267,Francisco Jose Riberas Mera,54,Spain,M,"steel, autoparts",Manufacturing,2000
+1268,Rodney Sacks,68,United States,M,energy drinks,Food and Beverage,2000
+1269,Hilton Schlosberg,65,United Kingdom,M,energy drinks,Food and Beverage,2000
+1270,Brian Sheth,42,United States,M,investments,Finance and Investments,2000
+1271,Lucy Stitzer,58,United States,F,Cargill,Food and Beverage,2000
+1272,Su Suyu,69,China,F,"utilities, real estate",Real Estate,2000
+1273,Satoshi Suzuki,64,Japan,M,cosmetics,Fashion & Retail,2000
+1274,Katherine Tanner,62,United States,F,Cargill,Food and Beverage,2000
+1275,Arvind Tiku,48,India,M,"oil & gas, investments",Energy,2000
+1276,Wang Liping,52,China,M,hydraulic machinery,Manufacturing,2000
+1277,Wang Xicheng,69,China,M,tires,Manufacturing,2000
+1278,Wei Shaojun,55,China,M,real estate,Real Estate,2000
+1279,Amy Wyss,47,United States,F,medical equipment,Healthcare,2000
+1280,Jon Yarbrough,61,United States,M,video games,Gambling & Casinos,2000
+1281,Vladimir Yevtushenkov,69,Russia,M,"telecom, investments",Telecom,2000
+1282,Charles Zegar,70,United States,M,Bloomberg LP,Media & Entertainment,2000
+1283,Zhu Baoguo,56,China,M,pharmaceuticals,Healthcare,2000
+1284,Saif Al Ghurair,94,United Arab Emirates,M,diversified,Diversified,1900
+1285,Syed Mokhtar AlBukhary,66,Malaysia,M,"engineering, energy, construction",Diversified,1900
+1286,Miriam Baumann-Blocher,43,Switzerland,F,chemicals,Manufacturing,1900
+1287,Albert Berner,82,Germany,M,fasteners,Manufacturing,1900
+1288,Thomas Bruch,68,Germany,M,retail,Fashion & Retail,1900
+1289,Chang Yun Chung,99,Singapore,M,shipping,Logistics,1900
+1292,Benjamin de Rothschild,54,Switzerland,M,banking,Finance and Investments,1900
+1293,James Dinan,59,United States,M,hedge funds,Finance and Investments,1900
+1294,Charles Edelstenne,80,France,M,aviation,Manufacturing,1900
+1295,Bernd Freier,61,Germany,M,fashion retail,Fashion & Retail,1900
+1296,Bill Gross,74,United States,M,investments,Finance and Investments,1900
+1297,Jeffrey Gundlach,59,United States,M,investments,Finance and Investments,1900
+1298,Suat Gunsel,65,Cyprus,M,"real estate, education",Real Estate,1900
+1299,Shmuel Harlap,73,Israel,M,automotive,Automotive,1900
+1300,Roberto Hernandez Ramirez,76,Mexico,M,banking,Finance and Investments,1900
+1301,Johannes Kaercher,67,Germany,M,"vacuums, cleaning products",Manufacturing,1900
+1302,Friedrich Knapp,67,Germany,M,fashion retail,Fashion & Retail,1900
+1303,Lee Myung-Hee,74,South Korea,F,retail,Fashion & Retail,1900
+1304,Lee Seo-Hyun,44,South Korea,F,"computer services, tourism",Diversified,1900
+1305,Liang Jiankun,56,China,M,cobalt mining,Metals & Mining,1900
+1306,Liao Long-shing,65,Taiwan,M,petrochemicals,Manufacturing,1900
+1307,Lin Shu-Hong,89,Taiwan,M,petrochemicals,Manufacturing,1900
+1308,Yasseen Mansour,56,Egypt,M,diversified,Diversified,1900
+1309,David Nahmad,71,Monaco,M,art collection,Fashion & Retail,1900
+1310,Alexander Nesis,55,Russia,M,"metals, banking, fertilizers",Finance and Investments,1900
+1311,Nandan Nilekani,63,India,M,software services,Technology,1900
+1312,Ranjan Pai,45,India,M,education,Service,1900
+1313,Park Hyeon-Joo,59,South Korea,M,mutual funds,Finance and Investments,1900
+1314,Jennifer Pritzker,67,United States,F,"hotels, investments",Service,1900
+1315,Qiu Jianping,56,China,M,hand tools,Manufacturing,1900
+1316,Megdet Rahimkulov,72,Russia,M,investments,Finance and Investments,1900
+1317,Vito Rodriguez Rodriguez,79,Peru,M,processed milk,Diversified,1900
+1318,Stephen Rubin,81,United Kingdom,M,sports apparel,Fashion & Retail,1900
+1319,Remo Ruffini,56,Italy,M,winter jackets,Fashion & Retail,1900
+1320,Erik Selin,51,Sweden,M,real estate,Real Estate,1900
+1321,Peter Sondakh,68,Indonesia,M,investments,Finance and Investments,1900
+1322,Alan N. Trefler,62,United States,M,software,Technology,1900
+1323,Tseng Shin-yi,90,Taiwan,M,petrochemicals,Manufacturing,1900
+1324,Masateru Uno,71,Japan,M,drugstores,Fashion & Retail,1900
+1325,Wang Qingtao,56,China,M,steel smelting,Metals & Mining,1900
+1326,Evan Williams,46,United States,M,Twitter,Technology,1900
+1327,Gustav Magnar Witzoe,25,Norway,M,fish farming,Food and Beverage,1900
+1328,Horst Wortmann,77,Germany,M,footwear,Fashion & Retail,1900
+1329,Xiao Yongming,53,China,M,fertilizer,Diversified,1900
+1330,Xie Zhikun,57,China,M,investments,Finance and Investments,1900
+1331,Xue Xiangdong,59,China,M,software,Technology,1900
+1332,Yuan Yafei,54,China,M,"retail, investments",Fashion & Retail,1900
+1333,Robin Zeng,50,Hong Kong,M,batteries,Energy,1900
+1334,Zhang Daocai,68,China,M,valves,Diversified,1900
+1335,Zhang Xuansong,46,China,M,supermarket,Fashion & Retail,1900
+1336,Zheng Yuewen,56,China,M,investments,Diversified,1900
+1337,Zhou Xiaoguang,56,China,F,real estate,Real Estate,1900
+1338,Susanne Zimmermann von Siefart ,61,Germany,F,"vacuums, home cleaning products",Manufacturing,1900
+1339,Aras Agalarov,62,Russia,M,real estate,Fashion & Retail,1800
+1340,Maurice Alter,93,Australia,M,real estate,Real Estate,1800
+1341,An Kang,69,China,M,pharmaceuticals,Healthcare,1800
+1342,Alex Beard,50,United Kingdom,M,"mining, commodities",Metals & Mining,1800
+1343,Nicolas Berggruen,56,United States,M,investments,Finance and Investments,1800
+1344,Vladimir Bogdanov,67,Russia,M,oil,Energy,1800
+1345,Julio Bozano,82,Brazil,M,banking,Finance and Investments,1800
+1346,Anna Maria Braun,39,Germany,F,medical technology,Healthcare,1800
+1347,Johanna Braun,38,Germany,F,medical technology,Healthcare,1800
+1348,Karl Friedrich Braun,35,Germany,M,medical technology,Healthcare,1800
+1349,Anand Burman,66,India,M,consumer goods,Food and Beverage,1800
+1350,Edouard Carmignac,70,France,M,asset management,Finance and Investments,1800
+1351,Chen Jianhua,47,China,M,chemicals,Manufacturing,1800
+1352,Cheung Yan,61,China,F,paper manufacturing,Manufacturing,1800
+1353,Chung Mong-Joon,66,South Korea,M,"shipbuilding, industrial machines",Manufacturing,1800
+1354,Jack Cowin,75,Australia,M,fast food,Food and Beverage,1800
+1355,Cui Genliang,60,China,M,electric components,Manufacturing,1800
+1356,Kommer Damen,74,Netherlands,M,shipbuilding,Manufacturing,1800
+1357,Diego Della Valle,64,Italy,M,shoes,Fashion & Retail,1800
+1358,Dou Zhenggang,65,China,M,"energy, chemicals",Diversified,1800
+1359,N. Murray Edwards,58,Canada,M,oil & gas,Energy,1800
+1360,Gabriel Escarrer,83,Spain,M,hotels,Service,1800
+1361,Clement Fayat,86,France,M,construction,Construction & Engineering,1800
+1362,James France,73,United States,M,"Nascar, racing",Sports,1800
+1363,Senapathy Gopalakrishnan,63,India,M,software services,Technology,1800
+1364,David Harding,56,United Kingdom,M,finance,Finance and Investments,1800
+1365,Stewart Horejsi,80,United States,M,Berkshire Hathaway,Finance and Investments,1800
+1366,Huang Qisen,53,China,M,real estate,Real Estate,1800
+1367,Hamilton James,66,United States,M,investments,Finance and Investments,1800
+1368,John Kapoor,74,United States,M,healthcare,Healthcare,1800
+1369,William Lauder,58,United States,M,Estee Lauder,Fashion & Retail,1800
+1370,Li Zongsong,51,China,M,pharmaceuticals,Healthcare,1800
+1371,Willy Michel,71,Switzerland,M,medical devices,Healthcare,1800
+1372,Masahiro Noda,79,Japan,M,software,Technology,1800
+1373,Gregorio Perez Companc,82,Argentina,M,oil & gas,Energy,1800
+1374,Linda Pritzker,64,United States,F,"hotels, investments",Service,1800
+1375,Qin Hui,50,China,M,movie theaters,Media & Entertainment,1800
+1376,Matthias Reinhart,58,Switzerland,M,finance,Finance and Investments,1800
+1377,Brian Roberts,58,United States,M,Comcast,Service,1800
+1378,Alberto Roemmers,91,Argentina,M,pharmaceuticals,Healthcare,1800
+1379,Gerald Schwartz,76,Canada,M,finance,Finance and Investments,1800
+1380,Thaksin Shinawatra,68,Thailand,M,investments,Finance and Investments,1800
+1381,William Stone,63,United States,M,software,Technology,1800
+1382,Petter Stordalen,55,Norway,M,hotels,Service,1800
+1383,Julia Stoschek,43,Germany,F,auto parts,Automotive,1800
+1385,Sun Shoukuan,68,China,M,metals. coal,Manufacturing,1800
+1386,Ba Duong Tran,58,Vietnam,M,automotive,Automotive,1800
+1387,Hamdi Ulukaya,45,Turkey,M,greek yogurt,Food and Beverage,1800
+1388,Wong Luen Hei,56,China,M,building materials,Manufacturing,1800
+1389,Wu Yulan,48,China,F,pharmaceuticals,Healthcare,1800
+1390,Xu Hang,52,China,M,medical devices,Healthcare,1800
+1391,Yang Erzhu,67,China,M,real estate,Real Estate,1800
+1392,Yao Kuizhang,53,China,M,beverages,Food and Beverage,1800
+1393,Sheng Jian Zhong,60,Singapore,M,real estate,Real Estate,1800
+1394,Marcel Adams,97,Canada,M,real estate,Real Estate,1700
+1395,"Herbert Allen, Jr.",78,United States,M,investment banking,Finance and Investments,1700
+1396,Michael Ashcroft,72,United Kingdom,M,security,Finance and Investments,1700
+1397,Roman Avdeev,50,Russia,M,"banking, development",Finance and Investments,1700
+1398,Emilio Azcarraga Jean,50,Mexico,M,TV broadcasting,Media & Entertainment,1700
+1399,Sezai Bacaksiz,68,Turkey,M,diversified,Diversified,1700
+1400,Lesley Bamberger,53,Netherlands,M,real estate,Real Estate,1700
+1401,Angela Bennett,74,Australia,F,mining,Metals & Mining,1700
+1402,Hubertus Benteler,71,Germany,M,auto parts,Automotive,1700
+1403,Ludwig Theodor Braun,28,Germany,M,medical technology,Healthcare,1700
+1404,Nicola Bulgari,77,Italy,M,luxury goods,Fashion & Retail,1700
+1405,Paolo Bulgari,80,Italy,M,luxury goods,Fashion & Retail,1700
+1406,Chen Dejun,48,China,M,package delivery,Logistics,1700
+1407,Tony Chen,49,Taiwan,M,eletronics,Technology,1700
+1408,Chen Xueli,67,China,M,pharmaceuticals,Healthcare,1700
+1409,Luigi Cremonini,79,Italy,M,meat processing,Food and Beverage,1700
+1410,Dominique Desseigne,73,France,M,casinos,Gambling & Casinos,1700
+1411,Sefik Yilmaz Dizdar,80,Turkey,M,fashion retail,Fashion & Retail,1700
+1412,Domenico Dolce,59,Italy,M,luxury goods,Fashion & Retail,1700
+1413,Pavel Durov,33,Russia,M,messaging app,Technology,1700
+1414,John Farber,92,United States,M,chemicals,Manufacturing,1700
+1415,Robert Fisher,64,United States,M,Gap,Service,1700
+1416,William Fisher,61,United States,M,Gap,Fashion & Retail,1700
+1417,Stefano Gabbana,55,Italy,M,luxury goods,Fashion & Retail,1700
+1418,Rolf Gerling,63,Germany,M,insurance,Finance and Investments,1700
+1419,Serge Godin,68,Canada,M,information technology,Technology,1700
+1420,Sergei Gordeev,45,Russia,M,real estate,Real Estate,1700
+1421,Mehmet Nazif Gunal,70,Turkey,M,"tourism, construction",Diversified,1700
+1422,Yusuf Hamied,81,India,M,pharmaceuticals,Healthcare,1700
+1423,Gerry Harvey,78,Australia,M,retail,Fashion & Retail,1700
+1424,Timothy Headington,68,United States,M,"oil & gas, investments",Energy,1700
+1425,Huang Chulong,59,Canada,M,real estate,Real Estate,1700
+1426,Huo Qinghua,57,China,M,coal,Energy,1700
+1427,Devendra Jain,89,India,M,chemicals,Manufacturing,1700
+1428,Jiang Yintai,67,China,M,auto parts,Automotive,1700
+1429,"Jim Justice, II.",67,United States,M,coal,Metals & Mining,1700
+1430,Kim Jun-Ki,73,South Korea,M,diversified,Diversified,1700
+1431,William Koch,78,United States,M,"oil, investments",Energy,1700
+1432,Anthony Langley,63,United Kingdom,M,manufacturing,Diversified,1700
+1433,Marc Lasry,57,United States,M,hedge funds,Finance and Investments,1700
+1434,Peter Leibinger,51,Germany,M,machine tools,Manufacturing,1700
+1435,Regine Leibinger,55,Germany,F,machine tools,Manufacturing,1700
+1436,Li San Yim,68,China,M,construction equipment,Manufacturing,1700
+1437,David Lichtenstein,56,United States,M,real estate,Real Estate,1700
+1438,Lim Oon Kuin,74,Singapore,M,oil trading,Energy,1700
+1439,Liu Ming Chung,55,Brazil,M,paper manufacturing,Manufacturing,1700
+1440,Ma Xiuhui,47,China,F,LED lighting,Manufacturing,1700
+1441,Prayudh Mahagitsiri,72,Thailand,M,"coffee, shipping",Food and Beverage,1700
+1442,Anand Mahindra,63,India,M,automobiles,Automotive,1700
+1443,Kishore Mariwala,83,India,M,consumer goods,Food and Beverage,1700
+1444,Craig McCaw,68,United States,M,telecom,Telecom,1700
+1445,Miguel McKelvey,43,United States,M,WeWork,Real Estate,1700
+1446,Vincent McMahon,72,United States,M,wrestling,Sports,1700
+1447,David McMurtry,78,United Kingdom,M,manufacturing,Manufacturing,1700
+1448,Gary Michelson,69,United States,M,medical patents,Healthcare,1700
+1449,Massimo Moratti,73,Italy,M,oil refinery,Energy,1700
+1450,Farhad Moshiri,63,United Kingdom,M,diversified,Diversified,1700
+1451,Jerry Moyes,74,United States,M,Transportation,Logistics,1700
+1452,Charles Munger,94,United States,M,Berkshire Hathaway,Finance and Investments,1700
+1453,Kerr Neilson,68,Australia,M,investment,Finance and Investments,1700
+1454,Ou Zongrong,54,China,M,real estate,Real Estate,1700
+1455,Nihat Ozdemir,68,Turkey,M,diversified,Diversified,1700
+1456,Pan Weiming,54,China,M,real estate,Real Estate,1700
+1457,Park Yeon-Cha,72,South Korea,M,sneakers,Manufacturing,1700
+1458,Nelson Peltz,76,United States,M,investments,Finance and Investments,1700
+1459,Roger Penske,81,United States,M,cars,Automotive,1700
+1460,Qi Jinxing,56,China,M,real estate,Real Estate,1700
+1461,Qi Shi,48,China,M,financial information,Technology,1700
+1462,Theodore Rachmat,74,Indonesia,M,diversified,Diversified,1700
+1463,Juan Maria Riberas Mera,49,Spain,M,steel,Metals & Mining,1700
+1464,Vijay Shekhar Sharma,40,India,M,financial technology,Service,1700
+1465,Konstantin Strukov,59,Russia,M,"gold, coal mining",Metals & Mining,1700
+1466,Henry Swieca,61,United States,M,hedge funds,Finance and Investments,1700
+1467,Wichai Thongtang,71,Thailand,M,investments,Real Estate,1700
+1468,Torsten Toeller,52,Germany,M,pet food,Fashion & Retail,1700
+1469,Roman Trotsenko,47,Russia,M,"transport, engineering, real estate",Logistics,1700
+1470,Todd Wagner,57,United States,M,online media,Media & Entertainment,1700
+1471,Wang Chaobin,62,China,M,real estate,Real Estate,1700
+1472,Wang Yanqing,52,China,M,electrical equipment,Manufacturing,1700
+1473,John Whittaker,76,United Kingdom,M,real estate,Real Estate,1700
+1474,Wu Guangming,56,China,M,medical equipment,Healthcare,1700
+1475,Xu Qiming,54,China,M,"food, art",Diversified,1700
+1476,Zhang Xiaojuan,48,China,F,logistics,Logistics,1700
+1477,Melih Abdulhayoglu,50,Turkey,M,internet security,Technology,1600
+1478,Radhe Shyam Agarwal,73,India,M,consumer goods,Fashion & Retail,1600
+1479,Mohamed Al Fayed,89,Egypt,M,"retail, investments",Fashion & Retail,1600
+1480,Faisal Bin Qassim Al Thani,70,Qatar,M,"hotels, diversified",Diversified,1600
+1481,William F. Austin,76,United States,M,hearing aids,Manufacturing,1600
+1482,Louis Bacon,61,United States,M,hedge funds,Finance and Investments,1600
+1483,Achal Bakeri,58,India,M,air coolers,Manufacturing,1600
+1484,Othman Benjelloun,85,Morocco,M,"banking, insurance",Finance and Investments,1600
+1485,William Berkley,71,United States,M,insurance,Finance and Investments,1600
+1486,Aneel Bhusri,52,United States,M,business software,Technology,1600
+1487,O. Francis Biondi,53,United States,M,hedge funds,Finance and Investments,1600
+1488,John Bloor,75,United Kingdom,M,"real estate, manufacturing",Diversified,1600
+1489,David Booth,72,United States,M,mutual funds,Finance and Investments,1600
+1490,Cai Wensheng,48,China,M,photo sharing app,Technology,1600
+1491,Ahmet Calik,60,Turkey,M,"energy, banking, construction",Diversified,1600
+1492,Michel Chalhoub,86,France,M,retail,Fashion & Retail,1600
+1493,Chen Xiaoying,41,China,F,package delivery,Logistics,1600
+1494,Cho Jung-Ho,59,South Korea,M,finance,Finance and Investments,1600
+1495,Turgay Ciner,62,Turkey,M,diversified,Diversified,1600
+1496,Steve Conine,45,United States,M,online retail,Technology,1600
+1497,Jacques D'Amours,61,Canada,M,retail,Fashion & Retail,1600
+1498,Robert Defares,56,Netherlands,M,electronic trading,Finance and Investments,1600
+1499,Alexander Dzhaparidze,62,Russia,M,oil services,Energy,1600
+1500,Stephen Feinberg,58,United States,M,private equity,Finance and Investments,1600
+1501,Paul Foster,60,United States,M,oil refining,Energy,1600
+1502,Mario Gabelli,76,United States,M,money management,Finance and Investments,1600
+1504,Radhe Shyam Goenka,72,India,M,consumer goods,Fashion & Retail,1600
+1505,Christopher Goldsbury,75,United States,M,salsa,Food and Beverage,1600
+1506,Stelios Haji-Ioannou,51,Cyprus,M,EasyJet,Service,1600
+1507,Ilkka Herlin,59,Finland,M,"elevators, escalators",Manufacturing,1600
+1508,Brian Higgins,53,United States,M,hedge funds,Finance and Investments,1600
+1509,Stephen Jarislowsky,92,Canada,M,money management,Finance and Investments,1600
+1510,Michael Jordan,55,United States,M,"Charlotte Hornets, endorsements",Sports,1600
+1511,Kenji Kasahara,42,Japan,M,social network,Technology,1600
+1512,Kim Taek-Jin,51,South Korea,M,online games,Gambling & Casinos,1600
+1513,Edward Lampert,55,United States,M,Sears,Finance and Investments,1600
+1514,Thomas Lau,64,Hong Kong,M,department stores,Fashion & Retail,1600
+1515,Thai Lee,59,United States,F,IT provider,Technology,1600
+1516,Lei Jufang,65,China,F,pharmaceuticals,Healthcare,1600
+1517,Li Li,54,China,M,pharmaceuticals,Healthcare,1600
+1518,Li Liufa,61,China,M,"steel, diversified",Diversified,1600
+1519,Liu Hanyuan,54,China,M,agribusiness,Food and Beverage,1600
+1520,Pier Luigi Loro Piana,66,Italy,M,fashion,Fashion & Retail,1600
+1521,Billy Joe (Red) McCombs,90,United States,M,"real estate, oil, cars, sports",Diversified,1600
+1522,Gian Marco Moratti,81,Italy,M,oil refinery,Energy,1600
+1523,Manuel Moroun,91,United States,M,transportation,Logistics,1600
+1524,Robert Mouawad,73,Lebanon,M,fine jewelry,Service,1600
+1525,Marius Nacht,52,Israel,M,software,Technology,1600
+1526,Ni Zugen,61,China,M,appliances,Manufacturing,1600
+1527,Lirio Parisotto,64,Brazil,M,investments,Finance and Investments,1600
+1528,Karl-Johan Persson,43,Sweden,M,H&M,Fashion & Retail,1600
+1529,Tom Persson,33,Sweden,M,H&M,Fashion & Retail,1600
+1530,Dmitry Pumpyansky,54,Russia,M,steel pipes,Metals & Mining,1600
+1531,Ruan Shuilong,82,China,M,chemicals,Manufacturing,1600
+1532,Jean Salata,52,Chile,M,finance,Finance and Investments,1600
+1533,Sheryl Sandberg,48,United States,F,Facebook,Technology,1600
+1534,Niraj Shah,44,United States,M,online retail,Technology,1600
+1535,Shin Dong-Guk,68,South Korea,M,Pharmaceuticals,Healthcare,1600
+1536,Ben Silbermann,35,United States,M,Pinterest,Technology,1600
+1537,Charlotte Soderstrom,41,Sweden,F,H&M,Fashion & Retail,1600
+1538,Thomas Steyer,60,United States,M,hedge funds,Finance and Investments,1600
+1539,Su Weizhong,49,China,M,"oil, fertilizers",Energy,1600
+1540,David Teoh,62,Australia,M,telecoms,Telecom,1600
+1541,Wang Jinshu,61,China,M,chemicals,Manufacturing,1600
+1542,Wang Yaohai,51,China,M,lighting,Technology,1600
+1543,Charlotte Colket Weber,75,United States,F,Campbell Soup,Food and Beverage,1600
+1544,Wei Ing-Chou,65,Taiwan,M,"food, beverages",Food and Beverage,1600
+1545,Yin-Chun Wei,61,Taiwan,M,"food, beverages",Food and Beverage,1600
+1546,Wei Yin-Heng,59,Taiwan,M,"food, beverages",Food and Beverage,1600
+1547,Wei Ying-Chiao,63,Taiwan,M,"food, beverages",Food and Beverage,1600
+1548,Richard White,63,Australia,M,software,Technology,1600
+1549,Allan Wong,68,Hong Kong,M,electronics,Manufacturing,1600
+1550,Wong Kwong Yu,49,China,M,retail,Fashion & Retail,1600
+1551,Wu Jianshu,54,Hong Kong,M,auto parts,Automotive,1600
+1552,Wu Xu,54,St. Kitts and Nevis,M,real estate,Real Estate,1600
+1553,Wu Xushun,70,China,M,"internet, auto parts",Diversified,1600
+1554,Luis Enrique Yarur Rey,67,Chile,M,banking,Finance and Investments,1600
+1555,Albert Yeung,75,Hong Kong,M,"real estate, retail",Diversified,1600
+1556,Yu Rong,46,China,M,health clinics,Healthcare,1600
+1557,Kostyantin Zhevago,44,Ukraine,M,mining,Metals & Mining,1600
+1558,Zhou Chengjian,53,China,M,fashion retail,Fashion & Retail,1600
+1559,Zhou Yaoting,75,China,M,"apparel, real estate",Diversified,1600
+1560,Zhuang Kuilong,56,China,M,polyester,Manufacturing,1600
+1562,Khalifa Bin Butti Al Muhairi,39,United Arab Emirates,M,"hospitals, investments",Diversified,1500
+1563,Folorunsho Alakija,67,Nigeria,F,oil,Energy,1500
+1564,Bill Alfond,70,United States,M,shoes,Fashion & Retail,1500
+1565,Susan Alfond,72,United States,F,shoes,Fashion & Retail,1500
+1566,Ted Alfond,73,United States,M,shoes,Fashion & Retail,1500
+1567,Joy Alukkas,61,India,M,jewelry,Fashion & Retail,1500
+1568,Andrey Andreev,44,United Kingdom,M,online dating,Technology,1500
+1569,Carol Jenkins Barnett,61,United States,F,Publix supermarkets,Food and Beverage,1500
+1570,Oleg Boyko,53,Russia,M,diversified,Diversified,1500
+1571,Ana Maria Brescia Cafferata,94,Peru,F,"mining, banking",Diversified,1500
+1572,Binod Chaudhary,63,Nepal,M,diversified,Diversified,1500
+1573,Che Fengsheng,55,China,M,pharmaceuticals,Healthcare,1500
+1574,Chen Qingzhou,52,China,M,communications equipment,Telecom,1500
+1575,Richard Desmond,66,United Kingdom,M,publishing,Media & Entertainment,1500
+1576,Mohammed Dewji,43,Tanzania,M,diversified,Diversified,1500
+1577,Carl Douglas,57,Sweden,M,investments,Diversified,1500
+1578,Eric Douglas,50,Sweden,M,investments,Diversified,1500
+1579,Bulent Eczacibasi,68,Turkey,M,"pharmaceuticals, diversified",Diversified,1500
+1580,Faruk Eczacibasi,64,Turkey,M,"pharmaceuticals, diversified",Diversified,1500
+1581,Martha Ford,92,United States,F,Ford Motor,Automotive,1500
+1582,Yasuhiro Fukushima,70,Japan,M,video games,Media & Entertainment,1500
+1583,Reinold Geiger,70,Austria,M,beauty products,Fashion & Retail,1500
+1584,Saad Hariri,48,Lebanon,M,"construction, investments",Construction & Engineering,1500
+1585,Richard Hayne,70,United States,M,Urban Outfitters,Fashion & Retail,1500
+1586,Ilona Herlin,53,Finland,F,"elevators, escalators",Manufacturing,1500
+1587,Asok Kumar Hiranandani,63,Singapore,M,real estate,Real Estate,1500
+1588,Niranjan Hiranandani,68,India,M,real estate,Real Estate,1500
+1589,Huang Qiaoling,59,China,M,amusement parks,Media & Entertainment,1500
+1590,Huang Zhuangmian,48,China,M,logistics,Logistics,1500
+1591,Hal Jackman,86,Canada,M,"insurance, investments",Finance and Investments,1500
+1592,Anurang Jain,56,India,M,auto parts,Manufacturing,1500
+1593,Keeree Kanjanapas,67,Thailand,M,transportation,Real Estate,1500
+1594,Kim Nam-Jung,45,South Korea,M,food,Food and Beverage,1500
+1595,Seth Klarman,61,United States,M,investments,Finance and Investments,1500
+1596,Alexander Klyachin,51,Russia,M,real estate,Real Estate,1500
+1597,Yuriy Kosiuk,50,Ukraine,M,agriculture,Food and Beverage,1500
+1598,Miguel Krigsner,68,Brazil,M,cosmetics,Fashion & Retail,1500
+1599,Lee Yin Yee,66,China,M,glass,Manufacturing,1500
+1600,Nicola Leibinger-Kammueller,58,Germany,F,manufacturing,Manufacturing,1500
+1601,Li Weiwei,41,China,M,online games,Technology,1500
+1602,William Li,43,China,M,automobiles,Automotive,1500
+1603,Li Yihai,55,China,M,pharmaceuticals,Healthcare,1500
+1604,Li Yong,41,China,M,chemicals,Manufacturing,1500
+1605,Lin Ming-hsiung,68,Taiwan,M,supermarkets,Fashion & Retail,1500
+1606,Lou Zhongfu,64,China,M,real estate,Real Estate,1500
+1607,Low Tuck Kwong,70,Indonesia,M,coal,Energy,1500
+1608,P.N.C. Menon,69,Oman,M,real estate,Real Estate,1500
+1609,Thomas Meyer,58,Switzerland,M,apparel retailer,Fashion & Retail,1500
+1610,Ezra Nahmad,72,Monaco,M,art,Finance and Investments,1500
+1611,Judith Neilson,72,Australia,F,investments,Finance and Investments,1500
+1612,Madeleine Olsson Ericksson,73,Sweden,F,diversified,Diversified,1500
+1613,Ou Zonghong,48,China,M,real estate,Real Estate,1500
+1614,Eren Ozmen,59,United States,F,aerospace,Manufacturing,1500
+1615,Fatih Ozmen,60,United States,M,aerospace,Manufacturing,1500
+1616,Jose Isaac Peres,77,Brazil,M,shopping malls,Real Estate,1500
+1617,Mark Pincus,52,United States,M,online games,Technology,1500
+1618,Kevin Plank,45,United States,M,Under Armour,Fashion & Retail,1500
+1619,"Nicholas Pritzker, II.",74,United States,M,"hotels, investments",Service,1500
+1620,Que Wenbin,54,China,M,pharmaceuticals,Healthcare,1500
+1621,Jorge Rodriguez Rodriguez,72,Peru,M,processed milk,Diversified,1500
+1622,Nobutada Saji,72,Japan,M,beverages,Food and Beverage,1500
+1623,Thomas Sandell,57,Sweden,M,hedge funds,Finance and Investments,1500
+1624,Eddy Kusnadi Sariaatmadja,64,Indonesia,M,"media, tech",Media & Entertainment,1500
+1625,Fayez Sarofim,89,United States,M,money management,Finance and Investments,1500
+1626,Monika Schoeller,79,Germany,F,publishing,Media & Entertainment,1500
+1627,Antonio Luiz Seabra,75,Brazil,M,cosmetics,Fashion & Retail,1500
+1628,Yuri Shefler,50,Russia,M,alcohol,Food and Beverage,1500
+1629,Rajju Shroff,84,India,M,agrochemicals,Manufacturing,1500
+1630,Frank Stronach,85,Canada,M,auto parts,Automotive,1500
+1631,Kevin Systrom,34,United States,M,Instagram,Technology,1500
+1632,Tang Hsiang-chien,95,Hong Kong,M,"textiles, electronics",Manufacturing,1500
+1634,Ning Tang,44,China,M,online lending,Finance and Investments,1500
+1635,Jim Thompson,78,United States,M,logistics,Logistics,1500
+1636,Jonathan Tisch,64,United States,M,"insurance, NFL team",Diversified,1500
+1637,Kenneth Tuchman,58,United States,M,outsourcing,Service,1500
+1638,Wim van der Leegte,70,Netherlands,M,manufacturing,Manufacturing,1500
+1639,Shamsheer Vayalil,41,India,M,healthcare,Healthcare,1500
+1640,Thongma Vijitpongpun,60,Thailand,M,real estate,Real Estate,1500
+1641,Arkady Volozh,54,Russia,M,search engine,Media & Entertainment,1500
+1642,Stefan von Holtzbrinck,55,Germany,M,publishing,Media & Entertainment,1500
+1643,Wang Jiufang,54,China,M,real estate,Real Estate,1500
+1644,Wong Hong King,56,China,M,real estate,Real Estate,1500
+1645,Ian Wood,75,United Kingdom,M,energy services,Energy,1500
+1646,Xiao Chunhong,50,China,M,real estate,Real Estate,1500
+1647,Jacky Xu,46,St. Kitts and Nevis,M,apparel,Fashion & Retail,1500
+1648,Zhang Hongwei,63,China,M,"oil, banking",Diversified,1500
+1649,Zhang Tao,45,China,M,e-commerce,Fashion & Retail,1500
+1650,Anu Aga,75,India,F,engineering,Construction & Engineering,1400
+1651,Farkhad Akhmedov,62,Russia,M,investments,Energy,1400
+1652,Alberto Alcocer,75,Spain,M,investments,Finance and Investments,1400
+1653,Bassam Alghanim,66,Kuwait,M,diversified,Diversified,1400
+1654,Kutayba Alghanim,72,Kuwait,M,diversified,Diversified,1400
+1655,Alexandra Andresen,21,Norway,F,investments,Diversified,1400
+1656,Katharina Andresen,23,Norway,F,investments,Diversified,1400
+1657,Vasily Anisimov,66,Russia,M,real estate,Metals & Mining,1400
+1658,Mori Arkin,65,Israel,M,pharmaceuticals,Healthcare,1400
+1659,Nigel Austin,47,Australia,M,retailing,Fashion & Retail,1400
+1660,Krishna Kumar Bangur,57,India,M,graphite electrodes,Manufacturing,1400
+1661,Herb Chambers,76,United States,M,car dealerships,Automotive,1400
+1662,R.G. Chandramogan,69,India,M,dairy,Food and Beverage,1400
+1663,Chang Pyung-Soon,67,South Korea,M,educational services,Service,1400
+1664,Chao Teng-hsiung,74,Taiwan,M,real estate,Real Estate,1400
+1665,Chen Liying,42,China,F,package delivery,Logistics,1400
+1666,Chen Tianqiao,45,China,M,online games,Technology,1400
+1667,Henry Cheng,71,Hong Kong,M,property,Diversified,1400
+1668,Chey Ki-Won,53,South Korea,F,"computer services, telecom",Technology,1400
+1669,Chi Yufeng,47,China,M,software,Technology,1400
+1670,Chua Thian Poh,69,Singapore,M,real estate,Real Estate,1400
+1671,Chung Yong-Jin,49,South Korea,M,retail,Fashion & Retail,1400
+1672,Ciputra,86,Indonesia,M,real estate,Real Estate,1400
+1673,Alberto Cortina,72,Spain,M,investments,Finance and Investments,1400
+1674,"Robert Coyiuto, Jr.",65,Philippines,M,power,Energy,1400
+1675,Maria Del Pino y Calvo-Sotelo,62,Spain,F,construction,Construction & Engineering,1400
+1676,K. Dinesh,64,India,M,software services,Technology,1400
+1677,Du Weimin,54,China,M,vaccines,Healthcare,1400
+1678,John Edson,86,United States,M,leisure craft,Manufacturing,1400
+1679,David Einhorn,49,United States,M,hedge funds,Finance and Investments,1400
+1680,Bob Ell,73,Australia,M,real estate,Construction & Engineering,1400
+1681,Gary Fegel,44,Switzerland,M,"commodities, investments",Metals & Mining,1400
+1682,Victor Fung,72,United States,M,trading company,Logistics,1400
+1683,William Fung,69,Hong Kong,M,sourcing,Fashion & Retail,1400
+1684,Alan Gerry,89,United States,M,cable television,Media & Entertainment,1400
+1685,Balkrishan Goenka,51,India,M,textiles,Manufacturing,1400
+1686,Polys Haji-Ioannou,58,Cyprus,M,EasyJet,Service,1400
+1687,Mehmet Hattat,72,Turkey,M,diversified,Diversified,1400
+1688,J. Tomilson Hill,70,United States,M,investments,Finance and Investments,1400
+1689,Eduardo Hochschild,54,Peru,M,mining,Metals & Mining,1400
+1690,Hoi Kin Hong,65,Macau,M,real estate,Real Estate,1400
+1691,Hur Young-In,69,South Korea,M,"bakeries, fast food",Food and Beverage,1400
+1692,George Joseph,96,United States,M,insurance,Finance and Investments,1400
+1693,Ronald Joyce,87,Canada,M,coffee chain,Food and Beverage,1400
+1694,T.S. Kalyanaraman,71,India,M,jewelry,Fashion & Retail,1400
+1695,Nimesh Kampani,71,India,M,investment banking,Finance and Investments,1400
+1696,Eugene Kaspersky,52,Russia,M,software,Technology,1400
+1697,Viktor Kharitonin,45,Russia,M,pharmaceuticals,Healthcare,1400
+1698,Pyotr Kondrashev,68,Russia,M,investments,Manufacturing,1400
+1699,Yuri Kovalchuk,66,Russia,M,"banking, insurance, media",Finance and Investments,1400
+1700,Kagemasa Kozuki,77,Japan,M,video games,Technology,1400
+1701,Michael Krasny,64,United States,M,retail,Technology,1400
+1702,James Leininger,73,United States,M,medical products,Healthcare,1400
+1703,Li Guoqiang,54,China,M,auto dealerships,Automotive,1400
+1704,Li Liangbin,50,China,M,lithium,Manufacturing,1400
+1705,Liu Ko-chen,64,Taiwan,M,Manufacturing,Technology,1400
+1706,Anatoly Lomakin,65,Russia,M,investments,Metals & Mining,1400
+1707,Ma Hong,50,China,M,fashion retail,Fashion & Retail,1400
+1708,Gary Magness,64,United States,M,"cable TV, investments",Media & Entertainment,1400
+1709,Youssef Mansour,73,Egypt,M,diversified,Diversified,1400
+1710,Strive Masiyiwa,57,Zimbabwe,M,telecom,Telecom,1400
+1711,Dariusz Milek,50,Poland,M,"real estate, retail",Fashion & Retail,1400
+1712,Nan Cunhui,54,China,M,power equipment,Manufacturing,1400
+1713,Dinesh Nandwana,55,India,M,software services,Technology,1400
+1714,Oei Hong Leong,70,Singapore,M,investments,Finance and Investments,1400
+1715,Rubens Ometto Silveira Mello,68,Brazil,M,"sugar, ethanol",Energy,1400
+1716,Ou Xueming,69,China,M,real estate,Real Estate,1400
+1717,Markus Persson,39,Sweden,M,computer games,Media & Entertainment,1400
+1718,Victor Pinchuk,57,Ukraine,M,"steel pipes, diversified",Metals & Mining,1400
+1721,Forrest Preston,85,United States,M,health care,Healthcare,1400
+1722,Jerry Reinsdorf,82,United States,M,sports teams,Sports,1400
+1723,Fernando Roig,70,Spain,M,supermarkets,Fashion & Retail,1400
+1724,Subhash Runwal,75,India,M,real estate,Real Estate,1400
+1725,Yoshiyuki Sankai,59,Japan,M,robotics,Technology,1400
+1726,Kirill Shamalov,36,Russia,M,petrochemicals,Energy,1400
+1727,Shin Dong-Bin,63,South Korea,M,retail,Fashion & Retail,1400
+1728,Evgeny (Eugene) Shvidler,54,United States,M,"oil & gas, investments",Energy,1400
+1729,Jasminder Singh,67,United Kingdom,M,hotels,Real Estate,1400
+1730,Martua Sitorus,58,Indonesia,M,palm oil,Manufacturing,1400
+1731,Peter Sperling,58,United States,M,education,Service,1400
+1732,Jerzy Starak,70,Poland,M,pharmaceuticals,Healthcare,1400
+1733,Manny Stul,69,Australia,M,toys,Manufacturing,1400
+1734,Su Rubo,63,China,M,real estate,Real Estate,1400
+1735,Fuat Tosyali,55,Turkey,M,steel,Metals & Mining,1400
+1736,Kenny Troutt,70,United States,M,telecom,Telecom,1400
+1737,Rufino Vigil Gonzalez,70,Mexico,M,steel,Metals & Mining,1400
+1738,Wang Jianfeng,48,China,M,auto parts,Automotive,1400
+1739,Wang Jing,45,China,M,telecom services,Telecom,1400
+1740,Wang Qunbin,48,China,M,conglomerate,Diversified,1400
+1741,Dan Wilks,62,United States,M,natural gas,Energy,1400
+1742,Farris Wilks,66,United States,M,natural gas,Energy,1400
+1743,Thomas Wu,68,Taiwan,M,finance,Finance and Investments,1400
+1744,Yi Zheng,47,China,M,software,Technology,1400
+1745,Yuan Fugen,67,China,M,metal processing,Manufacturing,1400
+1746,"Richard Yuengling, Jr.",75,United States,M,beer,Food and Beverage,1400
+1747,Gavril Yushvaev,60,Russia,M,"precious metals, real estate",Finance and Investments,1400
+1748,Zeng Kaitian,43,China,M,online games,Technology,1400
+1749,Zhang Wanzhen,68,China,M,electronic components,Manufacturing,1400
+1750,Zhang Yubai,53,China,M,wine,Food and Beverage,1400
+1752,Zhou Yifeng,49,China,M,chemicals,Manufacturing,1400
+1753,Zhou Yongli,63,China,M,conglomerate,Manufacturing,1400
+1754,Zhu Wenchen,52,China,M,pharmaceuticals,Healthcare,1400
+1755,Ahmet Nazif Zorlu,73,Turkey,M,diversified,Diversified,1400
+1756,Len Ainsworth,94,Australia,M,betting machines,Gambling & Casinos,1300
+1757,Edmund Ansin,82,United States,M,television,Media & Entertainment,1300
+1758,Markus Blocher,47,Switzerland,M,chemicals,Manufacturing,1300
+1759,Leonid Boguslavsky,67,Russia,M,venture capital,Finance and Investments,1300
+1760,Jorge Horacio Brito,65,Argentina,M,banking,Finance and Investments,1300
+1761,Saket Burman,41,United Kingdom,M,consumer goods,Food and Beverage,1300
+1762,Steve Case,59,United States,M,AOL,Technology,1300
+1763,Jeffrey Cheah,73,Malaysia,M,property,Real Estate,1300
+1764,Bruce Cheng,82,Taiwan,M,electronics,Technology,1300
+1765,Cheng Xianfeng,49,China,M,pharmaceuticals,Healthcare,1300
+1766,Ivan Chrenko,50,Slovakia,M,real estate,Real Estate,1300
+1767,Eduardo Cojuangco,83,Philippines,M,"food, drinks",Food and Beverage,1300
+1768,Brunello Cucinelli,64,Italy,M,fashion,Fashion & Retail,1300
+1769,Darwin Deason,78,United States,M,Xerox,Service,1300
+1770,Andrea Della Valle,52,Italy,M,shoes,Fashion & Retail,1300
+1771,Jamie Dimon,62,United States,M,banking,Finance and Investments,1300
+1772,Charles Dunstone,54,United Kingdom,M,mobile phones,Telecom,1300
+1773,Bruce Flatt,53,Canada,M,money management,Finance and Investments,1300
+1774,Fu Meicheng,60,China,M,"TV shows, movies",Media & Entertainment,1300
+1775,Soichiro Fukutake,72,Japan,M,education,Service,1300
+1776,Don Gao,53,China,M,power tools,Manufacturing,1300
+1777,Gao Yunfeng,51,China,M,industrial lasers,Manufacturing,1300
+1778,Anne Gittinger,82,United States,F,Nordstrom department stores,Fashion & Retail,1300
+1779,Clelia Haji-Ioannou,47,Cyprus,F,EasyJet,Service,1300
+1780,John Hancock,42,Australia,M,trust fund,Metals & Mining,1300
+1781,Ronnen Harary,46,Canada,M,toys,Manufacturing,1300
+1782,Ayman Hariri,40,Lebanon,M,"construction, investments",Construction & Engineering,1300
+1783,Fahd Hariri,37,Lebanon,M,"construction, investments",Construction & Engineering,1300
+1784,Surendra Hiranandani,63,Cyprus,M,real estate,Real Estate,1300
+1785,Alan Howard,54,United Kingdom,M,hedge funds,Finance and Investments,1300
+1786,Hu Keqin,60,China,M,chemicals,Diversified,1300
+1788,Irwin Jacobs,84,United States,M,semiconductors,Technology,1300
+1789,Mitchell Jacobson,67,United States,M,industrial equipment,Service,1300
+1790,Rana Kapoor,60,India,M,banking,Finance and Investments,1300
+1791,Alexander Karp,50,United States,M,software firm,Technology,1300
+1792,Raghuvinder Kataria,69,United Kingdom,M,diversified,Finance and Investments,1300
+1793,Habil Khorakiwala,75,India,M,pharmaceuticals,Healthcare,1300
+1794,Sidney Kimmel,90,United States,M,retail,Fashion & Retail,1300
+1795,Andre Koo,51,Taiwan,M,financial services,Finance and Investments,1300
+1796,Koo Bon-Neung,69,South Korea,M,electronics,Manufacturing,1300
+1797,Andrei Kosogov,57,Russia,M,"oil, banking, telecom",Energy,1300
+1798,Lee Ho-Jin,55,South Korea,M,diversified,Diversified,1300
+1799,Solomon Lew,73,Australia,M,retail,Fashion & Retail,1300
+1800,Rodney Lewis,63,United States,M,natural gas,Energy,1300
+1801,Li Jiaquan,54,China,M,chemicals,Manufacturing,1300
+1802,Lin Fanlian,57,China,M,gas,Energy,1300
+1803,Lin Jianhua,55,China,M,solar panel components,Manufacturing,1300
+1804,Lin Tianfu,55,Hong Kong,M,"footwear, apparel",Fashion & Retail,1300
+1805,Louise Lindh,38,Sweden,F,investments,Diversified,1300
+1806,Liu Baolin,65,China,M,pharmacies,Fashion & Retail,1300
+1807,Jose Llado Fernandez-Urrutia,84,Spain,M,construction,Construction & Engineering,1300
+1809,"Cargill MacMillan, III.",58,United States,M,Cargill,Food and Beverage,1300
+1810,John MacMillan,68,United States,M,Cargill,Food and Beverage,1300
+1811,Martha MacMillan,66,United States,F,Cargill,Food and Beverage,1300
+1812,William MacMillan,64,United States,M,Cargill,Food and Beverage,1300
+1813,Katarina Martinson,37,Sweden,F,investments,Diversified,1300
+1814,Craig Newmark,65,United States,M,Craigslist,Technology,1300
+1815,Bruce Nordstrom,84,United States,M,Nordstrom department stores,Fashion & Retail,1300
+1816,Pierre Karl Péladeau,56,Canada,M,media,Media & Entertainment,1300
+1817,David Penaloza Alanis,44,Mexico,M,toll roads,Construction & Engineering,1300
+1818,Andreas Pohl,53,Germany,M,mutual funds,Finance and Investments,1300
+1819,"Reinfried Pohl, Jr.",58,Germany,M,mutual funds,Finance and Investments,1300
+1820,Mahendra Prasad,78,India,M,pharmaceuticals,Healthcare,1300
+1821,Anton Rabie,46,Canada,M,toys,Manufacturing,1300
+1822,Bianca Rinehart,41,Australia,F,trust fund,Metals & Mining,1300
+1823,Ginia Rinehart,31,Australia,F,trust fund,Metals & Mining,1300
+1824,Alexander Rovt,65,United States,M,"fertilizer, real estate",Manufacturing,1300
+1825,Lily Safra,80,Monaco,F,banking,Finance and Investments,1300
+1826,Deniz Sahenk,72,Turkey,F,diversified,Diversified,1300
+1828,Leonard Schleifer,65,United States,M,pharmaceuticals,Healthcare,1300
+1829,Dieter Schnabel,72,Germany,M,chemicals,Manufacturing,1300
+1830,Bhadresh Shah,66,India,M,engineering,Manufacturing,1300
+1831,Shao Qinxiang,63,China,M,diversified,Manufacturing,1300
+1832,Eric Ya Shen,47,China,M,online apparel retail,Technology,1300
+1833,Nobutoshi Shimamura,92,Japan,M,retail,Fashion & Retail,1300
+1834,Shum Chiu Hung,48,China,M,real estate,Real Estate,1300
+1835,Helmut Sohmen,78,Austria,M,shipping,Logistics,1300
+1836,Sun Qinghuan,45,China,M,lighting,Technology,1300
+1837,Sun Yinhuan,68,China,M,real estate,Real Estate,1300
+1838,Djoko Susanto,68,Indonesia,M,supermarkets,Fashion & Retail,1300
+1839,Erol Tabanca,61,Turkey,M,Construction,Construction & Engineering,1300
+1840,Alexander Tedja,72,Indonesia,M,real estate,Real Estate,1300
+1841,Wilma Tisch,90,United States,F,diversified,Finance and Investments,1300
+1842,Ayhan Tosyali,54,Turkey,M,steel,Metals & Mining,1300
+1843,Fatih Tosyali,52,Turkey,M,steel,Metals & Mining,1300
+1844,Tran Dinh Long,57,Vietnam,M,"steel, heavy industry",Manufacturing,1300
+1845,Tsai Ming-Kai,68,Taiwan,M,semiconductors,Technology,1300
+1846,Pavel Tykac,54,Czech Republic,M,coal mines,Metals & Mining,1300
+1847,Jayshree Ullal,57,United States,F,technology,Technology,1300
+1848,Wan Long,77,China,M,food,Food and Beverage,1300
+1849,Wang Muqing,67,China,M,auto distribution,Automotive,1300
+1850,Wang Yong,68,China,M,food sweeteners,Food and Beverage,1300
+1851,Hope Welker,32,Australia,F,trust fund,Metals & Mining,1300
+1852,Wen Yibo,52,China,M,wastewater treatment,Service,1300
+1853,Stephen T. Winn,71,United States,M,real estate services,Real Estate,1300
+1854,Gordon Wu,83,Hong Kong,M,real estate,Real Estate,1300
+1855,Wu Lanlan,44,China,F,packaging,Manufacturing,1300
+1856,Xu Ziquan,59,China,M,software,Technology,1300
+1858,Yang Tingdong,58,China,M,brewery,Food and Beverage,1300
+1859,You Xiaoping,60,China,M,"chemicals, spandex",Manufacturing,1300
+1860,Yu Peidi,58,Hong Kong,M,real estate,Real Estate,1300
+1861,Yu Qibing,52,China,M,glass,Manufacturing,1300
+1862,Yu Yunxin,56,China,M,costume jewelry,Fashion & Retail,1300
+1863,Zan Shengda,55,China,M,diversified,Diversified,1300
+1864,Zhang Guiping,66,China,M,real estate,Real Estate,1300
+1865,Zhao Weiguo,51,China,M,IT products,Technology,1300
+1866,Zheng Jianjiang,57,China,M,electrical equipment,Manufacturing,1300
+1867,Hamad bin Jassim bin Jaber Al Thani,58,Qatar,M,investments,Finance and Investments,1200
+1870,Isak Andic,64,Spain,M,fashion retail,Fashion & Retail,1200
+1871,Marc Andreessen,46,United States,M,venture capital investing,Finance and Investments,1200
+1872,Jose Maria Aristrain,55,Spain,M,Steel,Metals & Mining,1200
+1873,Thomas Bailey,81,United States,M,money management,Finance and Investments,1200
+1874,Harindarpal Banga,67,India,M,commodities,Finance and Investments,1200
+1875,Elena Baturina,55,Russia,F,"investments, real estate",Construction & Engineering,1200
+1876,Eduardo Belmont Anderson,72,Peru,M,cosmetics,Fashion & Retail,1200
+1877,Tomasz Biernacki,45,Poland,M,supermarkets,Fashion & Retail,1200
+1878,Zadik Bino,74,Israel,M,"banking, oil",Diversified,1200
+1879,Brett Blundy,58,Australia,M,"retail, agribusiness",Fashion & Retail,1200
+1880,Henadiy Boholyubov,56,Ukraine,M,"banking, investments",Diversified,1200
+1881,Charles Brandes,75,United States,M,money management,Finance and Investments,1200
+1882,Amit Burman,48,India,M,consumer goods,Food and Beverage,1200
+1883,Cai Dongqing,49,China,M,animation,Media & Entertainment,1200
+1884,Chen Bo,47,China,M,wind power generation,Energy,1200
+1885,Cheng Wei,35,China,M,ride-hailing service,Service,1200
+1886,Phongthep Chiaravanont,66,Thailand,M,diversified,Diversified,1200
+1887,Kochouseph Chittilappilly,67,India,M,manufacturing,Manufacturing,1200
+1888,Chu Jinfu,61,China,M,electrical equipment,Manufacturing,1200
+1889,Eduardo Costantini,71,Argentina,M,real estate,Real Estate,1200
+1890,Sol Daurella,52,Spain,F,Coca-Cola,Food and Beverage,1200
+1891,Philip Day,52,United Kingdom,M,clothing retail,Fashion & Retail,1200
+1892,D. Leopoldo Del Pino y Calvo-Sotelo,55,Spain,M,construction,Construction & Engineering,1200
+1893,Norbert Dentressangle,63,France,M,"transport, logistics",Logistics,1200
+1894,Beda Diethelm,77,Switzerland,M,hearing aids,Healthcare,1200
+1895,Mark Dixon,59,United Kingdom,M,office real estate,Real Estate,1200
+1896,Henry Engelhardt,60,United States,M,insurance,Finance and Investments,1200
+1897,Fang Hongbo,51,China,M,home appliances,Manufacturing,1200
+1898,Gleb Fetisov,52,Russia,M,investments,Telecom,1200
+1899,Donald Foss,74,United States,M,auto loans,Automotive,1200
+1900,Robert Friedland,67,United States,M,mining,Metals & Mining,1200
+1901,Donald Friese,77,United States,M,manufacturing,Manufacturing,1200
+1902,Fu Guangming,64,China,M,poultry,Food and Beverage,1200
+1903,Dan Gertler,44,Israel,M,mining,Metals & Mining,1200
+1904,Dennis Gillings,74,United Kingdom,M,drug testing,Healthcare,1200
+1905,Ryan Graves,34,United States,M,uber,Technology,1200
+1906,Gu Wei,53,China,M,consumer electronics,Manufacturing,1200
+1907,Alfredo Harp Helu,74,Mexico,M,banking,Finance and Investments,1200
+1908,Gudrun Heine,63,Germany,F,medical devices,Healthcare,1200
+1909,Francis Holder,77,France,M,bakeries,Food and Beverage,1200
+1910,Hong Seok-Joh,65,South Korea,M,convenience stores,Fashion & Retail,1200
+1911,Douglas Hsu,75,Taiwan,M,diversified,Diversified,1200
+1912,Huang Jianrong,60,China,M,minerals,Metals & Mining,1200
+1913,"B. Wayne Hughes, Jr.",57,United States,M,storage facilities,Real Estate,1200
+1914,Daisy Igel,90,Brazil,F,"gas, petrochemicals",Energy,1200
+1915,Thomas James,76,United States,M,finance,Finance and Investments,1200
+1916,Jiang Ganjun,54,China,M,home & office products,Manufacturing,1200
+1917,Jiang Zhaobai,54,China,M,real estate,Real Estate,1200
+1918,Jin Huiming,65,China,M,real estate,Real Estate,1200
+1919,Ajay Kalsi,57,India,M,oil & gas,Energy,1200
+1920,Helga Kellerhals,78,Germany,F,electronics retailer,Fashion & Retail,1200
+1921,King Pak Fu,48,Hong Kong,M,real estate,Real Estate,1200
+1922,Sergei Kolesnikov,46,Russia,M,building materials,Manufacturing,1200
+1923,Hemendra Kothari,71,India,M,Financial Services,Finance and Investments,1200
+1924,Eiichi Kuriwada,71,Japan,M,package delivery,Logistics,1200
+1925,Guy Laliberté,58,Canada,M,Cirque du Soleil,Media & Entertainment,1200
+1926,Lee Hae-Jin,51,South Korea,M,Internet,Technology,1200
+1927,Michael Lee-Chin,67,Canada,M,mutual funds,Finance and Investments,1200
+1928,Li Guangyu,54,China,M,education,Service,1200
+1929,Li Jun,53,China,M,electronics,Manufacturing,1200
+1930,Li Rucheng,67,China,M,apparel,Fashion & Retail,1200
+1931,Li Xuhui,50,China,F,soy sauce maker,Food and Beverage,1200
+1932,Lim Wee Chai,60,Malaysia,M,rubber gloves,Manufacturing,1200
+1933,Liu Jiang,50,China,M,gas,Energy,1200
+1934,Liu Xuejing,67,China,M,"copper, poultry",Diversified,1200
+1935,Liu Zhenguo,53,China,M,sewage treatment,Service,1200
+1936,Lo Ka Shui,71,Hong Kong,M,real estate,Real Estate,1200
+1937,Lo Siu-tong,88,Hong Kong,M,"real estate, hotels",Real Estate,1200
+1938,Tobi Lutke,37,Canada,M,e-commerce,Technology,1200
+1939,Ma Yunsheng,55,China,M,energy,Diversified,1200
+1940,Ziyavudin Magomedov,49,Russia,M,"port, gas",Energy,1200
+1941,Ana Maria Marcondes Penido Sant'Anna,62,Brazil,F,toll roads,Construction & Engineering,1200
+1942,Terence (Terry) Matthews,75,Canada,M,telecom,Telecom,1200
+1943,Gail Miller,74,United States,F,"basketball, car dealers",Automotive,1200
+1944,Andrei Molchanov,46,Russia,M,construction materials,Construction & Engineering,1200
+1945,Ni Zhaoxing,62,China,M,real estate,Real Estate,1200
+1946,Kentaro Ogawa,69,Japan,M,restaurants,Food and Beverage,1200
+1947,Erik Paulsson,76,Sweden,M,"construction, real estate",Real Estate,1200
+1948,Peng Hao,51,China,M,electronics,Manufacturing,1200
+1949,Stefan Pierer,61,Austria,M,automotive,Automotive,1200
+1950,Michael Price,65,United States,M,investments,Finance and Investments,1200
+1951,Clayton Riddell,80,Canada,M,oil & gas,Energy,1200
+1952,Boris Rotenberg,61,Russia,M,"construction, pipes, chemicals",Construction & Engineering,1200
+1953,Igor Rybakov,46,Russia,M,building materials,Manufacturing,1200
+1954,Stephen Saad,54,South Africa,M,pharmaceuticals,Healthcare,1200
+1955,K. Rai Sahi,72,Canada,M,real estate,Real Estate,1200
+1956,Airat Shaimiev,56,Russia,M,"refinery, chemicals",Energy,1200
+1957,Radik Shaimiev,53,Russia,M,"refinery, chemicals",Energy,1200
+1958,Shang Jiyong,50,China,M,"tires, chemicals",Diversified,1200
+1959,Mikhail Shelkov,50,Russia,M,titanium,Metals & Mining,1200
+1960,S.D. Shibulal,63,India,M,software services,Technology,1200
+1961,Ron Sim,59,Singapore,M,retail,Fashion & Retail,1200
+1962,Leonid Simanovsky,68,Russia,M,investments,Finance and Investments,1200
+1963,Basudeo Singh,77,India,M,pharmaceuticals,Healthcare,1200
+1964,Samprada Singh,92,India,M,pharmaceuticals,Healthcare,1200
+1965,Terry Snow,74,Australia,M,"airports, real estate",Real Estate,1200
+1966,Lynsi Snyder,36,United States,F,In-N-Out Burger,Food and Beverage,1200
+1967,Sybill Storz,81,Germany,F,medical devices,Healthcare,1200
+1968,Harjo Sutanto,92,Indonesia,M,consumer goods,Fashion & Retail,1200
+1969,Yoshikazu Tanaka,41,Japan,M,social network,Technology,1200
+1970,Mehmet Sinan Tara,60,Turkey,M,construction,Construction & Engineering,1200
+1971,Rit Thirakomen,66,Thailand,M,restaurants,Food and Beverage,1200
+1972,Tian Ming,64,China,M,measuring instruments,Technology,1200
+1973,Ion Tiriac,79,Romania,M,"banking, insurance",Finance and Investments,1200
+1974,Ivar Tollefsen,57,Norway,M,Real estate,Real Estate,1200
+1975,Mustafa Latif Topbas,74,Turkey,M,"food, retail",Fashion & Retail,1200
+1976,Thomas Tull,48,United States,M,movies,Media & Entertainment,1200
+1977,John Van Lieshout,72,Australia,M,real estate,Real Estate,1200
+1978,Wang Han,30,China,M,airline,Diversified,1200
+1979,Wang Junjin,49,China,M,airline,Service,1200
+1980,Wang Wenbiao,61,China,M,"natural gas, fertilizers",Manufacturing,1200
+1981,"Alfred West, Jr.",75,United States,M,money management,Finance and Investments,1200
+1982,Wu Daohong,52,China,M,energy services,Energy,1200
+1983,Wu Yiling,68,China,M,pharmaceuticals,Healthcare,1200
+1984,Xiu Laigui,63,China,M,pharmaceuticals,Healthcare,1200
+1985,Xu Xiong,46,China,M,driving schools,Service,1200
+1986,Xu Xudong,48,China,M,auto parts,Automotive,1200
+1987,Xue Hua,48,China,M,Agribusiness,Manufacturing,1200
+1988,Vadim Yakunin,55,Russia,M,pharmacy,Healthcare,1200
+1989,Yan Yude,57,China,M,private schools,Service,1200
+1990,Yang Keng,57,China,M,real estate,Real Estate,1200
+1991,Yang Shaopeng,60,China,M,Shipping,Logistics,1200
+1992,Zhang Cheng Fei,50,China,M,paper & related products,Manufacturing,1200
+1993,Zhang Jingzhang,82,China,M,precision machinery,Manufacturing,1200
+1994,Zhang Keqiang,58,China,M,real estate,Real Estate,1200
+1995,Zhang Xuanning,48,China,M,retail,Fashion & Retail,1200
+1996,Zhang Zhangsun,61,China,M,real estate,Real Estate,1200
+1997,Zhou Bajin,83,China,M,auto parts,Manufacturing,1200
+1998,Zhou Wenyu,53,China,M,real estate,Real Estate,1200
+1999,William Ackman,52,United States,M,hedge funds,Finance and Investments,1100
+2000,Soegiarto Adikoesoemo,80,Indonesia,M,chemicals,Logistics,1100
+2001,Ali Ibrahim Agaoglu,64,Turkey,M,construction,Construction & Engineering,1100
+2002,Hamdi Akin,63,Turkey,M,diversified,Diversified,1100
+2003,Chirayu Amin,71,India,M,pharmaceuticals,Healthcare,1100
+2004,Mehmet Aydinlar,61,Turkey,M,hospitals,Healthcare,1100
+2005,Emanuella Barilla,51,Italy,F,Barilla pasta,Food and Beverage,1100
+2006,Guido Barilla,59,Italy,M,Barilla pasta,Food and Beverage,1100
+2007,Luca Barilla,58,Italy,M,Barilla pasta,Food and Beverage,1100
+2008,Paolo Barilla,57,Italy,M,Barilla pasta,Food and Beverage,1100
+2009,Mehmet Rustu Basaran,71,Turkey,M,"banking, gas",Energy,1100
+2010,J. Hyatt Brown,80,United States,M,insurance,Finance and Investments,1100
+2012,Hideyuki Busujima,65,Japan,M,pachinko machines,Gambling & Casinos,1100
+2013,Cai Rongjun,45,China,M,electronic components,Technology,1100
+2014,Cai Xiaoru,38,China,M,electronic components,Technology,1100
+2015,Delfin Jorge Ezequiel Carballo,65,Argentina,M,banking,Finance and Investments,1100
+2016,Chen Jinshi,55,China,M,"construction, real estate",Real Estate,1100
+2017,Chen Qixing,58,China,M,electronics components,Technology,1100
+2018,Chen Shiliang,54,China,M,polyester,Manufacturing,1100
+2019,Chen Xiaxin,56,China,M,industrial machinery,Diversified,1100
+2023,Gustavo Cisneros,73,Venezuela,M,media,Media & Entertainment,1100
+2024,Sandor Csanyi,65,Hungary,M,"finance, real estate",Diversified,1100
+2025,Cui Lijie,60,Hong Kong,F,gambling,Gambling & Casinos,1100
+2026,Dang Yanbao,45,China,M,coal,Metals & Mining,1100
+2027,Bharat Desai,65,United States,M,IT consulting,Technology,1100
+2028,Joseph Edelman,63,United States,M,hedge funds,Finance and Investments,1100
+2030,Andrei Filatov,46,Russia,M,"ports, railway transport",Logistics,1100
+2031,Paul Fireman,74,United States,M,Reebok,Fashion & Retail,1100
+2032,J. Christopher Flowers,60,United States,M,investments,Finance and Investments,1100
+2033,Fu Kwan,60,China,M,"real estate, diversified",Diversified,1100
+2034,Sheela Gautam,86,India,F,mattresses,Fashion & Retail,1100
+2035,Drew Houston,35,United States,M,file hosting service,Technology,1100
+2036,Huang Shilin,51,China,M,storage batteries,Energy,1100
+2037,Huang Wen Tsai,64,China,M,real estate,Real Estate,1100
+2038,Mohammed Ibrahim,72,United Kingdom,M,communications,Telecom,1100
+2039,Hiroshi Ishibashi,71,Japan,M,tires,Automotive,1100
+2040,Bent Jensen,66,Denmark,M,electric linear systems,Manufacturing,1100
+2041,Chatchai Kaewbootta,66,Thailand,M,auto loans,Finance and Investments,1100
+2042,Jonas Kamprad,52,Sweden,M,IKEA,Finance and Investments,1100
+2043,Mathias Kamprad,48,Sweden,M,IKEA,Finance and Investments,1100
+2044,Peter Kamprad,54,Sweden,M,IKEA,Finance and Investments,1100
+2046,Richard Kayne,72,United States,M,investments,Finance and Investments,1100
+2047,Vladimir Kogan,55,Russia,M,banking,Diversified,1100
+2048,Koh Wee Meng,54,Singapore,M,"real estate, hotels",Real Estate,1100
+2049,Koo Bon-Joon,66,South Korea,M,"electronics, household products",Technology,1100
+2050,Lam Lung On,53,China,M,real estate,Real Estate,1100
+2051,Isaac Larian,64,United States,M,toys,Manufacturing,1100
+2052,Frank Laukien,58,United States,M,scientific equipment,Manufacturing,1100
+2053,Lee Joon-Ho,53,South Korea,M,online games,Technology,1100
+2054,Lee Sang-Hyuk,47,South Korea,M,investments,Technology,1100
+2055,Nancy Lerner,58,United States,F,"banking, credit cards",Finance and Investments,1100
+2056,Norma Lerner,82,United States,F,banking,Finance and Investments,1100
+2057,Randolph Lerner,56,United States,M,"banking, credit cards",Finance and Investments,1100
+2058,David Xueling Li,45,China,M,live streaming service,Technology,1100
+2059,Li Tan,53,China,F,pharmaceuticals,Healthcare,1100
+2060,Li Weiguo,53,China,M,construction materials,Manufacturing,1100
+2061,Liang Feng,49,China,M,manufacturing,Manufacturing,1100
+2062,Liang Guangwei,54,China,M,conglomerate,Manufacturing,1100
+2063,Liang Shezeng,86,China,M,real estate,Real Estate,1100
+2064,Liao Chang,52,China,M,wine,Food and Beverage,1100
+2065,Jenny Lindén Urnes,47,Sweden,F,powdered metal,Manufacturing,1100
+2066,Liu Zhendong,47,China,M,industrial parks,Service,1100
+2067,Liu Zhiqiang,53,China,M,conglomerate,Diversified,1100
+2068,Jonathan Lu,49,China,M,e-commerce,Technology,1100
+2069,William Macaulay,72,United States,M,energy investments,Energy,1100
+2070,John Martin,67,United States,M,pharmaceuticals,Healthcare,1100
+2071,Yves-Loic Martin,52,France,M,laboratory services,Healthcare,1100
+2072,Satish Mehta,67,India,M,pharmaceuticals,Healthcare,1100
